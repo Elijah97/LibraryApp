@@ -1,6 +1,6 @@
 <?php
 ob_start();
-define('DB_SERVER', '127.0.0.1');
+define('DB_SERVER', 'localhost');
 define('DB_USERNAME', 'ihewarwa_library');
 define('DB_PASSWORD', '123login');
 define('DB_DATABASE', 'ihewarwa_library');

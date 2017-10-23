@@ -78,15 +78,15 @@ $page_id = 'student';
               </form>
             </div>
           </div>
+            <?php }?>
         </div>
         </div>
             
         <div class="content-wrapper">
-            <?php }?>
         <div class="row">
           <div class="col-md-12">
             <div class="card">
-              <div class="card-body" id="print_content">
+              <div class="card-body">
                 <table class="table table-hover table-bordered" id="sampleTable">
                   <thead>
                     <tr>
@@ -122,7 +122,6 @@ $page_id = 'student';
                 </table>
                   <form action="download.php" method="POST">
                    <input type="submit" name="student" class="btn btn-primary" value="Download"> 
-                   <a class="btn btn-primary" href="javascript:Clickheretoprint()"><span class="menu-icon"><i class="fa fa-fw fa-print"></i></span></a> 
                 </form>
               </div>
             </div>

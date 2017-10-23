@@ -1,22 +1,24 @@
-<html>
-<head>
-<title>Sending email using PHP</title>
-</head>
-<body>
+
 <?php
-   $to = "ekagabo17@soon.alustudent.com";
-   $subject = "This is subject";
-   $message = "This is simple text message.";
-   $header = "From:elie.gash42@gmail.com \r\n";
-   $retval = mail ($to,$subject,$message,$header);
-   if( $retval == true ) 
-   {
-      echo "Message sent successfully…";
-   }
-   else
-   {
-      echo "Message could not be sent…";
-   }
+//$arr = array("A","E","I","O","U");
+//
+//$str = implode(",",$arr);
+//echo $str;
 ?>
-</body>
-</html>
+
+<?php
+                require_once "../db_connection.php";
+    $query = mysql_query("SELECT email FROM students");
+        while($row = mysql_fetch_array($query)) {
+            $e[] = $row["email"];
+        }
+            $emails = implode(", ",$e); 
+            echo $emails."<br>";
+//            foreach($e as $r) {
+//                echo $r.'<br>';
+//            }
+//$array = array("A","E","I","O","U");
+//
+//$string = implode(",",$array);
+//echo $string;
+?>

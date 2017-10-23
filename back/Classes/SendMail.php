@@ -1,8 +1,8 @@
 
  <?php
    class SendMail {
-     //private $_db,
-       //     $_data;
+     private $_db,
+            $_data;
       public static function send(){
       require_once('mailer/PHPMailerAutoload.php');
 //      $db = DB::getInstance();
@@ -29,7 +29,7 @@ echo $to;
       //$mail->SMTPDebug = 2;                               // Enable verbose debug output
 
       $mail->isSMTP();                                      // Set mailer to use SMTP || Disable for Godaddy
-      //$mail->SMTPAuth = true;                               // Enable SMTP authentication Gmail
+      $mail->SMTPAuth = false;                               // Enable SMTP authentication Gmail
     //  $mail->SMTPSecure = false;                            // Disable for Godaddy Email
       $mail->SMTPSecure = 'ssl';                            // Enable TLS encryption, `ssl` also accepted
     //  $mail->Host = 'relay-hosting.secureserver.net';  // Specify main and backup SMTP servers Godaddy
@@ -37,7 +37,8 @@ echo $to;
       $mail->Username = 'alulibraryrwanda@gmail.com';                 // SMTP username
       $mail->Password = 'alulibraryrwanda';                           // SMTP password
     //  $mail->Port = 25;   //   587                              // TCP port to connect to Godaddy
-      $mail->Port = 465;   //   587                              // TCP port to connect to Gmail
+      //$mail->Port = 465;   //   587                              // TCP port to connect to Gmail
+      $mail->Port = 587;   //   587                              // TCP port to connect to Gmail
       $mail->WordWrap   = 80; // set word wrap  
 
       $mail->setFrom('alulibraryrwanda@gmail.com', 'ALU Library Email');
@@ -69,10 +70,10 @@ echo $to;
 
       if($mail->send()) {
 //          Redirect::to('email.php');
-          header("Location:email.php");
+          header("Location:late.php");
       } else {
         echo 'Message could not be sent.';
-        //echo 'Mailer Error: ' . $mail->ErrorInfo;
+        echo 'Mailer Error: ' . $mail->ErrorInfo;
       }
     }
           }  

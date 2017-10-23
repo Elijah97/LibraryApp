@@ -20,9 +20,30 @@ $page_id = 'index';
           </div>
         </div>
         <div class="row">
+        <?php if($status == 1){ ?>
+<!--
+          <div class="col-md-3">
+            <a href="settings.php">  
+                <div class="widget-small primary"><i class="icon fa fa-users fa-3x"></i>
+                  <div class="info">
+                    <h4>Users</h4>
+                    <p><b>
+                      <?php
+                        require_once "../db_connection.php";
+                        $mysql = mysql_query("SELECT count(*) as total FROM users");
+                        $data = mysql_fetch_assoc($mysql);
+                        echo $data['total'];
+                       ?>
+                    </b></p>
+                  </div>
+                </div>
+            </a>
+          </div>
+-->
+
           <div class="col-md-3">
               <a href="student.php"> 
-                <div class="widget-small primary"><i class="icon fa fa-graduation-cap fa-3x"></i>
+                <div class="widget-small warning"><i class="icon fa fa-graduation-cap fa-3x"></i>
                   <div class="info">
                     <h4>Students</h4>
                     <p><b>
@@ -36,6 +57,7 @@ $page_id = 'index';
                 </div>
               </a>
           </div>
+            <?php }?>
           <div class="col-md-3">
               <a href="book.php"> 
                 <div class="widget-small danger"><i class="icon fa fa-book fa-3x"></i>
@@ -54,7 +76,7 @@ $page_id = 'index';
           </div>
               <div class="col-md-3">
                   <a href="report.php"> 
-                    <div class="widget-small warning"><i class="icon fa fa-sign-out fa-3x"></i>
+                    <div class="widget-small primary"><i class="icon fa fa-sign-out fa-3x"></i>
                       <div class="info">
                         <h4>Borrowed</h4>
                         <p><b>
@@ -70,7 +92,7 @@ $page_id = 'index';
               </div>
               <div class="col-md-3">
                   <a href="report.php"> 
-                    <div class="widget-small primary"><i class="icon fa fa-sign-in  fa-3x"></i>
+                    <div class="widget-small warning"><i class="icon fa fa-sign-in  fa-3x"></i>
                       <div class="info">
                         <h4>Returned</h4>
                         <p><b>
@@ -85,21 +107,13 @@ $page_id = 'index';
                   </a>
               </div>
         </div>
-        <br>
           <div class="row">
+              
           <div class="col-md-6">
             <div class="card">
-              <h3 class="card-title">Traffic of books borrowed</h3>
+              <h3 class="card-title">Statistics</h3>
               <div class="embed-responsive embed-responsive-16by9">
-                <canvas class="embed-responsive-item" id="books"></canvas>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-6">
-            <div class="card">
-              <h3 class="card-title">Traffic of students who borrow</h3>
-              <div class="embed-responsive embed-responsive-16by9">
-                <canvas class="embed-responsive-item" id="students"></canvas>
+                <canvas class="embed-responsive-item" id="pieChartDemo"></canvas>
               </div>
             </div>
           </div>
@@ -107,47 +121,75 @@ $page_id = 'index';
       </div>
     </div>
     <!-- Javascripts-->
-<script type="text/javascript">
-<?php
-                  require_once "../db_connection.php";
-                  $pdata = [];
-                  $pdata1 = [];
-                  $colors = ['#F7464A','#46BFBD','#FDB45C','#FEB21C','#EFB45C'];
-                  $highlight = ['#FF5A5E','#5AD3D1','#FFC870','#FFC870','#FFC870'];
-                  $a = 0;
-//=================================================================================================                  
-                  $fetch = mysql_query("SELECT * FROM `books` ORDER BY traffic DESC LIMIT 5"); 
-                  while($get = mysql_fetch_array($fetch)){    
-                    $pdata[] = [ 
-                      'value' => $get['traffic'],
-                      'color' => $colors[$a],
-                      'highlight' => $highlight[$a],
-                      'label' => $get['book_name']
-                    ];
-                    $a++;
-                  }
-                  $pdata = json_encode($pdata);
-//=================================================================================================
-                  $fetch1 = mysql_query("SELECT * FROM `students` ORDER BY traffic DESC LIMIT 5"); 
-                  while($get1 = mysql_fetch_array($fetch1)){    
-                    $pdata1[] = [ 
-                      'value' => $get1['traffic'],
-                      'color' => $colors[$a],
-                      'highlight' => $highlight[$a],
-                      'label' => $get1['names']
-                    ];
-                    $a++;
-                  }
-                  $pdata1 = json_encode($pdata1); 	
-?>
 
-  var pdata = <?php echo $pdata; ?>;
-  var ctxp = $("#books").get(0).getContext("2d");
-  new Chart(ctxp).Pie(pdata);
- 
-  var pdata1 = <?php echo $pdata1; ?>;
-  var ctxp1 = $("#students").get(0).getContext("2d");
-  new Chart(ctxp1).Pie(pdata1);
+<script type="text/javascript">
+    <?php
+    require_once "../db_connection.php";
+     $fetch = mysql_query("SELECT * FROM books");
+        while($traf = mysql_fetch_array($fetch))
+                    {
+            $track[0]= $traf["traffic"];
+    ?>
+  var data = {
+    labels: ["January", "February", "March", "April", "May"],
+    datasets: [
+        {
+            label: "My First dataset",
+            fillColor: "rgba(220,220,220,0.2)",
+            strokeColor: "rgba(220,220,220,1)",
+            pointColor: "rgba(220,220,220,1)",
+            pointStrokeColor: "#fff",
+            pointHighlightFill: "#fff",
+            pointHighlightStroke: "rgba(220,220,220,1)",
+            data: [65, 59, 80, 81, 56]
+        },
+        {
+            label: "My Second dataset",
+            fillColor: "rgba(151,187,205,0.2)",
+            strokeColor: "rgba(151,187,205,1)",
+            pointColor: "rgba(151,187,205,1)",
+            pointStrokeColor: "#fff",
+            pointHighlightFill: "#fff",
+            pointHighlightStroke: "rgba(151,187,205,1)",
+            data: [28, 48, 40, 19, 86]
+        }
+    ]
+  };
+  var pdata = [
+    {
+        value: 180,
+        color:"#F7464A",
+        highlight: "#FF5A5E",
+        label: "Red"
+    },
+    {
+        value: 50,
+        color: "#46BFBD",
+        highlight: "#5AD3D1",
+        label: "Green"
+    },
+    {
+        value: 10,
+        color: "#FDB45C",
+        highlight: "#FFC870",
+        label: "Yellow"
+    },
+    {
+        value: 60,
+        color: "#FEB21C",
+        highlight: "#FFC870",
+        label: "Yellow"
+    },
+    {
+        value: 60,
+        color: "#EFB45C",
+        highlight: "#FFC870",
+        label: "Yellow"
+    },
+  ]
+ <?php }?>
+  var ctxp = $("#pieChartDemo").get(0).getContext("2d");
+  var barChart = new Chart(ctxp).Pie(pdata);
 </script>
-</body>
+  </body>
 </html>
