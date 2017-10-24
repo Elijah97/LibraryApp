@@ -4,7 +4,7 @@ session_start();
 include('../session.php');
 $var=$_SESSION['login_user'];
 if(!$var)
-  header("location:../login.php");
+  header("location:../index.php");
 
 ?>
 <!-- Navbar-->
@@ -19,12 +19,13 @@ if(!$var)
         
 
         <!-- User Menu-->
-        <li class="dropdown"><a class="dropdown-toggle" href="#" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
-            <i class="fa fa-user fa-lg"></i> 
-            <b class="text-uppercase text-center"><?= $login_session;?></b>&nbsp; 
-            <i class="fa fa-caret-down fa-lg"></i>
-          </a>
+        <li class="dropdown"><a class="dropdown-toggle" href="#" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="fa fa-user fa-lg"> &nbsp; </i> <b class="text-uppercase text-center"><?= substr($login_session,0,1);?></b> | <?= $user;?> <i class="fa fa-caret-down fa-lg">  </i></a>
           <ul class="dropdown-menu settings-menu">
+<!--              substr(escape($user->data()->name),0,1);-->
+<!--
+            <li><a href="profile.php"><i class="fa fa-cog fa-lg"></i> Settings</a></li>
+            <li><a href="profile.php"><i class="fa fa-user fa-lg"></i> Profile</a></li>
+-->
             <li><a href="logout.php"><i class="fa fa-sign-out fa-lg"></i> Logout</a></li>
           </ul>
         </li>

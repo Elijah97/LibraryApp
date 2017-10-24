@@ -14,7 +14,7 @@ $page_id = 'book';
       <div class="content-wrapper">
         <div class="page-title">
           <div>
-            <h1><i class="fa fa-book"></i> Book</h1>
+            <h1><i class="fa fa-home"></i> Add Book</h1>
             </div>
           <div>
             <ul class="breadcrumb">
@@ -24,7 +24,7 @@ $page_id = 'book';
           </div>
         </div>
         <div class="row">
-            <?php if($status == 1) { ?>
+            <?php if($status == 1) {?>
           <div class="col-lg-6">
             <div class="well bs-component">
               <form class="form-horizontal" action="" method="POST">
@@ -159,6 +159,7 @@ echo '
 //    QRtools::timeBenchmark();    
 ?>
           </div>
+       <?php }?>
         </div>
         <div class="row">
           <div class="col-lg-6">
@@ -184,12 +185,12 @@ echo '
           </div>
           </div>
       </div>
+        
     <div class="content-wrapper">
-    <?php }?>
         <div class="row">
           <div class="col-md-12">
             <div class="card">
-              <div class="card-body" id="print_content">
+              <div class="card-body">
                 <table class="table table-hover table-bordered" id="sampleTable">
                   <thead>
                     <tr>
@@ -225,7 +226,6 @@ echo '
                 </table>
                   <form action="download.php" method="POST">
                    <input type="submit" name="book" class="btn btn-primary" value="Download"> 
-                   <a class="btn btn-primary" href="javascript:Clickheretoprint()"><span class="menu-icon"><i class="fa fa-fw fa-print"></i></span></a> 
                 </form>
               </div>
             </div>
@@ -266,9 +266,7 @@ if(isset($_POST["Import"]))
         {
             //print_r($emapData);
             //exit();
-            $namecode = $emapData[0].''.$emapData[1];
-	    $qr = md5($namecode,FALSE);
-            $sql = "INSERT into books(book_name,ISBN,qr_book) values ('$emapData[0]','$emapData[1]','$qr')";
+            $sql = "INSERT into books(book_name,ISBN,qr_book) values ('$emapData[0]','$emapData[1]','$emapData[2]')";
             mysql_query($sql);
         }
         fclose($file);

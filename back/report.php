@@ -16,23 +16,29 @@ $page_id = 'report';
           <div>
             <h1><i class="fa fa-edit"></i>&nbsp; Report</h1>
             </div>
-          <div>
-            <ul class="breadcrumb">
-              <li><i class="fa fa-home fa-lg"></i></li>
-              <li><a href="#">Dashboard</a></li>
-            </ul>
-          </div>
         </div>
+        </div>
+            
+        <div class="content-wrapper" style="margin-top:-50px;">
         <div class="row">
           <div class="col-md-12">
+            <div id="print_content" style="padding-top:3%;padding-bottom:3%;">
+            <a class="btn btn-primary" href="javascript:Clickheretoprint()">
+                <span class="menu-icon"><i class="fa fa-fw fa-print"></i></span> 
+                </a><br><br>
             <div class="card">
-              <div class="card-body" id="print_content">
+              <div class="card-body">
                 <table class="table table-hover table-bordered" id="sampleTable">
                   <thead>
                     <tr>
                       <th>#</th>
                       <th>Student Names</th>
+                      <th>Student Email</th>
                       <th>Book</th>
+<!--
+                      <th>Qr Student</th>
+                      <th>Qr Book</th>
+-->
                       <th>Date Borrowed</th>
                       <th>Date Returned</th>
                       <th>Status</th>
@@ -40,38 +46,46 @@ $page_id = 'report';
                   </thead>
                   <tbody>
                     <?php
-                      require_once "../db_connection.php";
-                      $bookmgt = mysql_query("SELECT * FROM book_mgt");
-                      while($bmgt = mysql_fetch_array($bookmgt)){
-                        $qr_b = $bmgt["qr_book"];
-                        $qr_s = $bmgt["qr_student"];
-                        $book = mysql_query("SELECT * FROM books WHERE qr_book = '$qr_b'");
-                        while($getBook = mysql_fetch_array($book)){
-                          $fetch = mysql_query("SELECT * FROM students WHERE qr_student = '$qr_s'");
-                          while($getStudent = mysql_fetch_array($fetch)){
-                            echo '<tr>
-                            	    <td>'.$bmgt["id"].'</td>
-                                    <td>'.$getStudent["names"].'</td>
-                                    <td>'.$getBook["book_name"].'</td>
-                                    <td>'.$bmgt["date_borrowed"].'</td>
-                                    <td>';
-                                    if(strtotime($bmgt["date_returned"]) == -62169984000){
-                                    	echo "Not Yet Returned";
-                                    } else {
-                                    	echo $bmgt["date_returned"];
-                                    }
-                                    echo '</td>
-                                    <td>'.$bmgt["status"].'</td>
-                                  </tr>';
-                          }
-                        }
-                      }
-                    ?>
+                require_once "../db_connection.php";
+                   $bookmgt = mysql_query("SELECT * FROM book_mgt");
+                      while($bmgt = mysql_fetch_array($bookmgt))
+                    {
+                    $qr_b = $bmgt["qr_book"];
+                    $qr_s = $bmgt["qr_student"];
+                   
+                   $book = mysql_query("SELECT * FROM books WHERE qr_book = '$qr_b'");
+                        while($b = mysql_fetch_array($book)){
+                            $qr_book = $bmgt["qr_book"];
+                            $book = $bmgt["book_name"];
+                        
+                   $fetch = mysql_query("SELECT * FROM students WHERE qr_student = '$qr_s'");
+                   $rows = mysql_num_rows($fetch);
+                   if ($rows == 0) {
+                     echo "No Record found";
+                   }
+                   else {
+                     # code...
+
+                while($take = mysql_fetch_array($fetch))
+                    {
+                    echo '  <tr>
+                        <td>'.$bmgt["id"].'</td>
+                        <td>'.$take["names"].'</td>
+                        <td>'.$take["email"].'</td>
+                        <td>'.$book.'</td>
+//                        <td>'.dechex($take["qr_student"]).'</td>
+//                        <td>'.dechex($b["qr_book"]).'</td>
+                        <td>'.$bmgt["date_borrowed"].'</td>
+                        <td>'.$bmgt["date_returned"].'</td>
+                        <td>'.$bmgt["status"].'</td>
+                      </tr>
+                      ';
+                    }} }}
+                      ?>
                   </tbody>
                 </table>
                   <form action="download.php" method="POST">
-                   <input type="submit" name="transaction" class="btn btn-primary" value="Download">
-                   <a class="btn btn-primary" href="javascript:Clickheretoprint()"><span class="menu-icon"><i class="fa fa-fw fa-print"></i></span></a> 
+                   <input type="submit" name="transaction" class="btn btn-primary" value="Download"> 
                 </form>
                 </div>
               </div>

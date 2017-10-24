@@ -1,4 +1,5 @@
 <?php
+include("classes/SendMail.php");
 $page_id = 'late';
 //require_once('aside.php');
 ?>
@@ -24,44 +25,6 @@ $page_id = 'late';
           </div>
         </div>
         <div class="row">
-        
-        <h4>Send Email</h4>
-        <div class="col-md-12">
-            <div class="row">
-          <div class="col-md-12">
-            <div class="well bs-component">
-              <form class="form-horizontal" action="" method="POST">
-                <fieldset>
-                  <div class="form-group">
-                    <label class="col-lg-2 control-label" for="inputEmail">Name</label>
-                    <div class="col-lg-10">
-                      <input class="form-control" id=" " name="name" type="text" placeholder="Student" autofocus>
-                    </div>
-                  </div>
-                    <div class="form-group">
-                    <label class="col-lg-2 control-label" for="inputEmail">Emails</label>
-                    <div class="col-lg-10">
-                      <input class="form-control" id=" " name="email" type="text" value="<?= $email;?>" placeholder="email" autofocus>
-                    </div>
-                  </div>
-                    <div class="form-group">
-                      <label class="col-lg-2 control-label" for="textArea">Message</label>
-                      <div class="col-lg-10">
-                        <textarea class="form-control" id="textArea" rows="3" name="message" placeholder="Message goes here ..."></textarea>
-                      </div>
-                    </div>
-                  <div class="form-group">
-                    <div class="col-lg-10 col-lg-offset-2">
-                      <button class="btn btn-default" type="reset">Cancel</button>
-                      <input class="btn btn-primary" type="submit" value="Submit" name="send">
-                    </div>
-                  </div>
-                </fieldset>
-              </form>
-            </div>
-          </div>
-            </div>
-        </div>
           <div class="col-md-12">
             <div class="card">
               <div class="card-body" id="print_content">
@@ -108,6 +71,45 @@ $page_id = 'late';
                 </div>
             </div>
         </div>
+            <h4>Send Email</h4>
+        <div class="col-md-12">
+            <div class="row">
+            <?php if($status == 1) {?>
+          <div class="col-lg-6">
+            <div class="well bs-component">
+              <form class="form-horizontal" action="" method="POST">
+                <fieldset>
+                  <div class="form-group">
+                    <label class="col-lg-2 control-label" for="inputEmail">Name</label>
+                    <div class="col-lg-10">
+                      <input class="form-control" id=" " name="name" type="text" placeholder="Student" autofocus>
+                    </div>
+                  </div>
+                    <div class="form-group">
+                    <label class="col-lg-2 control-label" for="inputEmail">Emails</label>
+                    <div class="col-lg-10">
+                      <input class="form-control" id=" " name="email" type="text" value="<?= $email=null; $email?>" placeholder="email" autofocus>
+                    </div>
+                  </div>
+                    <div class="form-group">
+                      <label class="col-lg-2 control-label" for="textArea">Message</label>
+                      <div class="col-lg-10">
+                        <textarea class="form-control" id="textArea" rows="3" name="message" placeholder="Message goes here ..."></textarea>
+                      </div>
+                    </div>
+                  <div class="form-group">
+                    <div class="col-lg-10 col-lg-offset-2">
+                      <button class="btn btn-default" type="reset">Cancel</button>
+                      <input class="btn btn-primary" type="submit" value="Submit" name="send">
+                    </div>
+                  </div>
+                </fieldset>
+              </form>
+            </div>
+          </div>
+                <?php } ?>
+            </div>
+        </div>
     </div>
         </div>
         </div>
@@ -116,6 +118,6 @@ $page_id = 'late';
 
 <?php
 if(isset($_POST["send"])){
-SendMail::send();
+    SendMail::send();
 }
 ?>
