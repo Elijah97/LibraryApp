@@ -22,6 +22,9 @@
                   <thead>
                     <tr>
                       <th>Book Name</th>
+                      <th>Book Author</th>
+                      <th>ISBN</th>
+                      <th>Shelf</th>
                       <th>Availability</th>
                     </tr>
                   </thead>
@@ -32,6 +35,9 @@
                     ?>
                     <tr>
                       <td><?php echo $get['book_name']; ?></td>
+                      <td><?php echo $get['author']; ?></td>
+                      <td><?php echo $get['ISBN']; ?></td>
+                      <td><?php echo $get['shelf']; ?></td>
                       <td>
                       <?php
                         echo ($get['status'] == 'Returned' ? 'Available' : 'Not Available');

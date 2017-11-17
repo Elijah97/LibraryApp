@@ -45,7 +45,7 @@ $page_id = 'index';
               <a href="student.php"> 
                 <div class="widget-small warning"><i class="icon fa fa-graduation-cap fa-3x"></i>
                   <div class="info">
-                    <h4>Students</h4>
+                    <h4>Students | Staff</h4>
                     <p><b>
                       <?php
                       require_once "../db_connection.php";

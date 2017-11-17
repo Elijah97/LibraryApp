@@ -249,3 +249,634 @@
 [23-Oct-2017 08:11:47 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/ihewarwanda/public_html/lib/back/report.php on line 57
 [23-Oct-2017 08:11:47 Etc/GMT] PHP Notice:  Undefined index: book_name in /home/ihewarwanda/public_html/lib/back/report.php on line 59
 [23-Oct-2017 08:11:47 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/ihewarwanda/public_html/lib/back/report.php on line 57
+[23-Oct-2017 18:28:00 Etc/GMT] PHP Notice:  Undefined index: book_name in /home/ihewarwanda/public_html/lib/back/report.php on line 59
+[23-Oct-2017 18:28:00 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/ihewarwanda/public_html/lib/back/report.php on line 57
+[23-Oct-2017 18:28:00 Etc/GMT] PHP Notice:  Undefined index: book_name in /home/ihewarwanda/public_html/lib/back/report.php on line 59
+[23-Oct-2017 18:28:00 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/ihewarwanda/public_html/lib/back/report.php on line 57
+[23-Oct-2017 18:28:00 Etc/GMT] PHP Notice:  Undefined index: book_name in /home/ihewarwanda/public_html/lib/back/report.php on line 59
+[23-Oct-2017 18:28:00 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/ihewarwanda/public_html/lib/back/report.php on line 57
+[23-Oct-2017 18:28:00 Etc/GMT] PHP Notice:  Undefined index: book_name in /home/ihewarwanda/public_html/lib/back/report.php on line 59
+[23-Oct-2017 18:28:00 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/ihewarwanda/public_html/lib/back/report.php on line 57
+[23-Oct-2017 18:28:00 Etc/GMT] PHP Notice:  Undefined index: book_name in /home/ihewarwanda/public_html/lib/back/report.php on line 59
+[23-Oct-2017 18:28:00 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/ihewarwanda/public_html/lib/back/report.php on line 57
+[23-Oct-2017 18:28:00 Etc/GMT] PHP Notice:  Undefined index: book_name in /home/ihewarwanda/public_html/lib/back/report.php on line 59
+[23-Oct-2017 18:28:00 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/ihewarwanda/public_html/lib/back/report.php on line 57
+[23-Oct-2017 18:28:00 Etc/GMT] PHP Notice:  Undefined index: book_name in /home/ihewarwanda/public_html/lib/back/report.php on line 59
+[23-Oct-2017 18:28:00 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/ihewarwanda/public_html/lib/back/report.php on line 57
+[23-Oct-2017 18:28:00 Etc/GMT] PHP Notice:  Undefined index: book_name in /home/ihewarwanda/public_html/lib/back/report.php on line 59
+[23-Oct-2017 18:28:00 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/ihewarwanda/public_html/lib/back/report.php on line 57
+[24-Oct-2017 11:51:25 Etc/GMT] PHP Notice:  Undefined index: book_name in /home/ihewarwanda/public_html/lib/back/report.php on line 59
+[24-Oct-2017 11:51:25 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/ihewarwanda/public_html/lib/back/report.php on line 57
+[24-Oct-2017 11:51:25 Etc/GMT] PHP Notice:  Undefined index: book_name in /home/ihewarwanda/public_html/lib/back/report.php on line 59
+[24-Oct-2017 11:51:25 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/ihewarwanda/public_html/lib/back/report.php on line 57
+[24-Oct-2017 11:51:25 Etc/GMT] PHP Notice:  Undefined index: book_name in /home/ihewarwanda/public_html/lib/back/report.php on line 59
+[24-Oct-2017 11:51:25 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/ihewarwanda/public_html/lib/back/report.php on line 57
+[24-Oct-2017 11:51:25 Etc/GMT] PHP Notice:  Undefined index: book_name in /home/ihewarwanda/public_html/lib/back/report.php on line 59
+[24-Oct-2017 11:51:25 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/ihewarwanda/public_html/lib/back/report.php on line 57
+[24-Oct-2017 11:51:25 Etc/GMT] PHP Notice:  Undefined index: book_name in /home/ihewarwanda/public_html/lib/back/report.php on line 59
+[24-Oct-2017 11:51:25 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/ihewarwanda/public_html/lib/back/report.php on line 57
+[24-Oct-2017 11:51:25 Etc/GMT] PHP Notice:  Undefined index: book_name in /home/ihewarwanda/public_html/lib/back/report.php on line 59
+[24-Oct-2017 11:51:25 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/ihewarwanda/public_html/lib/back/report.php on line 57
+[24-Oct-2017 11:51:25 Etc/GMT] PHP Notice:  Undefined index: book_name in /home/ihewarwanda/public_html/lib/back/report.php on line 59
+[24-Oct-2017 11:51:25 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/ihewarwanda/public_html/lib/back/report.php on line 57
+[24-Oct-2017 11:51:25 Etc/GMT] PHP Notice:  Undefined index: book_name in /home/ihewarwanda/public_html/lib/back/report.php on line 59
+[24-Oct-2017 11:51:25 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/ihewarwanda/public_html/lib/back/report.php on line 57
+[25-Oct-2017 07:29:26 Etc/GMT] PHP Notice:  Undefined index: book_name in /home/ihewarwanda/public_html/lib/back/report.php on line 55
+[25-Oct-2017 07:29:26 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[25-Oct-2017 07:29:26 Etc/GMT] PHP Notice:  Undefined index: book_name in /home/ihewarwanda/public_html/lib/back/report.php on line 55
+[25-Oct-2017 07:29:26 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[25-Oct-2017 07:29:26 Etc/GMT] PHP Notice:  Undefined index: book_name in /home/ihewarwanda/public_html/lib/back/report.php on line 55
+[25-Oct-2017 07:29:26 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[25-Oct-2017 07:29:26 Etc/GMT] PHP Notice:  Undefined index: book_name in /home/ihewarwanda/public_html/lib/back/report.php on line 55
+[25-Oct-2017 07:29:26 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[25-Oct-2017 07:29:26 Etc/GMT] PHP Notice:  Undefined index: book_name in /home/ihewarwanda/public_html/lib/back/report.php on line 55
+[25-Oct-2017 07:29:26 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[25-Oct-2017 07:29:26 Etc/GMT] PHP Notice:  Undefined index: book_name in /home/ihewarwanda/public_html/lib/back/report.php on line 55
+[25-Oct-2017 07:29:26 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[25-Oct-2017 07:29:26 Etc/GMT] PHP Notice:  Undefined index: book_name in /home/ihewarwanda/public_html/lib/back/report.php on line 55
+[25-Oct-2017 07:29:26 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[25-Oct-2017 07:29:26 Etc/GMT] PHP Notice:  Undefined index: book_name in /home/ihewarwanda/public_html/lib/back/report.php on line 55
+[25-Oct-2017 07:29:26 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[25-Oct-2017 07:29:26 Etc/GMT] PHP Notice:  Undefined index: book_name in /home/ihewarwanda/public_html/lib/back/report.php on line 55
+[25-Oct-2017 07:29:26 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[25-Oct-2017 07:29:26 Etc/GMT] PHP Notice:  Undefined index: book_name in /home/ihewarwanda/public_html/lib/back/report.php on line 55
+[25-Oct-2017 07:29:26 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[25-Oct-2017 07:30:07 Etc/GMT] PHP Notice:  Undefined index: book_name in /home/ihewarwanda/public_html/lib/back/report.php on line 55
+[25-Oct-2017 07:30:07 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[25-Oct-2017 07:30:07 Etc/GMT] PHP Notice:  Undefined index: book_name in /home/ihewarwanda/public_html/lib/back/report.php on line 55
+[25-Oct-2017 07:30:07 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[25-Oct-2017 07:30:07 Etc/GMT] PHP Notice:  Undefined index: book_name in /home/ihewarwanda/public_html/lib/back/report.php on line 55
+[25-Oct-2017 07:30:07 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[25-Oct-2017 07:30:07 Etc/GMT] PHP Notice:  Undefined index: book_name in /home/ihewarwanda/public_html/lib/back/report.php on line 55
+[25-Oct-2017 07:30:07 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[25-Oct-2017 07:30:07 Etc/GMT] PHP Notice:  Undefined index: book_name in /home/ihewarwanda/public_html/lib/back/report.php on line 55
+[25-Oct-2017 07:30:07 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[25-Oct-2017 07:30:07 Etc/GMT] PHP Notice:  Undefined index: book_name in /home/ihewarwanda/public_html/lib/back/report.php on line 55
+[25-Oct-2017 07:30:07 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[25-Oct-2017 07:30:07 Etc/GMT] PHP Notice:  Undefined index: book_name in /home/ihewarwanda/public_html/lib/back/report.php on line 55
+[25-Oct-2017 07:30:07 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[25-Oct-2017 07:30:07 Etc/GMT] PHP Notice:  Undefined index: book_name in /home/ihewarwanda/public_html/lib/back/report.php on line 55
+[25-Oct-2017 07:30:07 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[25-Oct-2017 07:30:07 Etc/GMT] PHP Notice:  Undefined index: book_name in /home/ihewarwanda/public_html/lib/back/report.php on line 55
+[25-Oct-2017 07:30:07 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[25-Oct-2017 07:30:07 Etc/GMT] PHP Notice:  Undefined index: book_name in /home/ihewarwanda/public_html/lib/back/report.php on line 55
+[25-Oct-2017 07:30:07 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[25-Oct-2017 07:30:30 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[25-Oct-2017 07:30:30 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[25-Oct-2017 07:30:30 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[25-Oct-2017 07:30:30 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[25-Oct-2017 07:30:30 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[25-Oct-2017 07:30:30 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[25-Oct-2017 07:30:30 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[25-Oct-2017 07:30:30 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[25-Oct-2017 07:30:30 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[25-Oct-2017 07:30:30 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[25-Oct-2017 11:19:06 Etc/GMT] PHP Notice:  Undefined index: login_user in /home/ihewarwanda/public_html/lib/session.php on line 6
+[25-Oct-2017 11:19:06 Etc/GMT] PHP Notice:  Undefined index: login_user in /home/ihewarwanda/public_html/lib/back/header.php on line 5
+[25-Oct-2017 11:19:06 Etc/GMT] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/ihewarwanda/public_html/lib/back/report.php on line 46
+[25-Oct-2017 11:19:06 Etc/GMT] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ihewarwanda/public_html/lib/back/report.php on line 46
+[25-Oct-2017 11:19:06 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ihewarwanda/public_html/lib/back/report.php on line 47
+[25-Oct-2017 11:19:24 Etc/GMT] PHP Warning:  include(classes/SendMail.php): failed to open stream: No such file or directory in /home/ihewarwanda/public_html/lib/back/late.php on line 2
+[25-Oct-2017 11:19:24 Etc/GMT] PHP Warning:  include(classes/SendMail.php): failed to open stream: No such file or directory in /home/ihewarwanda/public_html/lib/back/late.php on line 2
+[25-Oct-2017 11:19:24 Etc/GMT] PHP Warning:  include(): Failed opening 'classes/SendMail.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/ihewarwanda/public_html/lib/back/late.php on line 2
+[27-Oct-2017 08:41:55 Etc/GMT] PHP Notice:  Undefined index: login_user in /home/ihewarwanda/public_html/lib/session.php on line 6
+[27-Oct-2017 08:41:55 Etc/GMT] PHP Notice:  Undefined index: login_user in /home/ihewarwanda/public_html/lib/back/header.php on line 5
+[27-Oct-2017 08:41:55 Etc/GMT] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/ihewarwanda/public_html/lib/back/student.php on line 102
+[27-Oct-2017 08:41:55 Etc/GMT] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ihewarwanda/public_html/lib/back/student.php on line 102
+[27-Oct-2017 08:41:55 Etc/GMT] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ihewarwanda/public_html/lib/back/student.php on line 103
+[27-Oct-2017 16:18:13 Etc/GMT] PHP Notice:  Undefined index: login_user in /home/ihewarwanda/public_html/lib/session.php on line 6
+[27-Oct-2017 16:18:13 Etc/GMT] PHP Notice:  Undefined index: login_user in /home/ihewarwanda/public_html/lib/back/header.php on line 5
+[27-Oct-2017 16:18:13 Etc/GMT] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/ihewarwanda/public_html/lib/back/student.php on line 102
+[27-Oct-2017 16:18:13 Etc/GMT] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ihewarwanda/public_html/lib/back/student.php on line 102
+[27-Oct-2017 16:18:13 Etc/GMT] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ihewarwanda/public_html/lib/back/student.php on line 103
+[29-Oct-2017 10:44:13 Etc/GMT] PHP Notice:  Undefined index: login_user in /home/ihewarwanda/public_html/lib/session.php on line 6
+[29-Oct-2017 10:44:13 Etc/GMT] PHP Notice:  Undefined index: login_user in /home/ihewarwanda/public_html/lib/back/header.php on line 5
+[29-Oct-2017 10:44:13 Etc/GMT] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/ihewarwanda/public_html/lib/back/student.php on line 102
+[29-Oct-2017 10:44:13 Etc/GMT] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ihewarwanda/public_html/lib/back/student.php on line 102
+[29-Oct-2017 10:44:13 Etc/GMT] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ihewarwanda/public_html/lib/back/student.php on line 103
+[31-Oct-2017 08:30:19 Etc/GMT] PHP Warning:  include(classes/SendMail.php): failed to open stream: No such file or directory in /home/ihewarwanda/public_html/lib/back/late.php on line 2
+[31-Oct-2017 08:30:19 Etc/GMT] PHP Warning:  include(classes/SendMail.php): failed to open stream: No such file or directory in /home/ihewarwanda/public_html/lib/back/late.php on line 2
+[31-Oct-2017 08:30:19 Etc/GMT] PHP Warning:  include(): Failed opening 'classes/SendMail.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/ihewarwanda/public_html/lib/back/late.php on line 2
+[31-Oct-2017 08:30:44 Etc/GMT] PHP Warning:  include(classes/SendMail.php): failed to open stream: No such file or directory in /home/ihewarwanda/public_html/lib/back/late.php on line 2
+[31-Oct-2017 08:30:44 Etc/GMT] PHP Warning:  include(classes/SendMail.php): failed to open stream: No such file or directory in /home/ihewarwanda/public_html/lib/back/late.php on line 2
+[31-Oct-2017 08:30:44 Etc/GMT] PHP Warning:  include(): Failed opening 'classes/SendMail.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/ihewarwanda/public_html/lib/back/late.php on line 2
+[31-Oct-2017 08:30:44 Etc/GMT] PHP Fatal error:  Class 'SendMail' not found in /home/ihewarwanda/public_html/lib/back/late.php on line 121
+[31-Oct-2017 11:36:20 Etc/GMT] PHP Notice:  Undefined index: login_user in /home/ihewarwanda/public_html/lib/session.php on line 6
+[31-Oct-2017 11:36:20 Etc/GMT] PHP Notice:  Undefined index: login_user in /home/ihewarwanda/public_html/lib/back/header.php on line 5
+[31-Oct-2017 11:36:20 Etc/GMT] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/ihewarwanda/public_html/lib/back/student.php on line 102
+[31-Oct-2017 11:36:20 Etc/GMT] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ihewarwanda/public_html/lib/back/student.php on line 102
+[31-Oct-2017 11:36:20 Etc/GMT] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ihewarwanda/public_html/lib/back/student.php on line 103
+[31-Oct-2017 12:50:54 Etc/GMT] PHP Notice:  Undefined index: login_user in /home/ihewarwanda/public_html/lib/session.php on line 6
+[31-Oct-2017 12:50:54 Etc/GMT] PHP Notice:  Undefined index: login_user in /home/ihewarwanda/public_html/lib/back/header.php on line 5
+[31-Oct-2017 12:50:54 Etc/GMT] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/ihewarwanda/public_html/lib/back/index.php on line 69
+[31-Oct-2017 12:50:54 Etc/GMT] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ihewarwanda/public_html/lib/back/index.php on line 69
+[31-Oct-2017 12:50:54 Etc/GMT] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ihewarwanda/public_html/lib/back/index.php on line 70
+[31-Oct-2017 12:50:54 Etc/GMT] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/ihewarwanda/public_html/lib/back/index.php on line 85
+[31-Oct-2017 12:50:54 Etc/GMT] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ihewarwanda/public_html/lib/back/index.php on line 85
+[31-Oct-2017 12:50:54 Etc/GMT] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ihewarwanda/public_html/lib/back/index.php on line 86
+[31-Oct-2017 12:50:54 Etc/GMT] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/ihewarwanda/public_html/lib/back/index.php on line 101
+[31-Oct-2017 12:50:54 Etc/GMT] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ihewarwanda/public_html/lib/back/index.php on line 101
+[31-Oct-2017 12:50:54 Etc/GMT] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ihewarwanda/public_html/lib/back/index.php on line 102
+[31-Oct-2017 12:50:54 Etc/GMT] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/ihewarwanda/public_html/lib/back/index.php on line 128
+[31-Oct-2017 12:50:54 Etc/GMT] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ihewarwanda/public_html/lib/back/index.php on line 128
+[31-Oct-2017 12:50:54 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ihewarwanda/public_html/lib/back/index.php on line 129
+[31-Oct-2017 14:36:18 Etc/GMT] PHP Notice:  Undefined index: login_user in /home/ihewarwanda/public_html/lib/session.php on line 6
+[31-Oct-2017 14:36:18 Etc/GMT] PHP Notice:  Undefined index: login_user in /home/ihewarwanda/public_html/lib/back/header.php on line 5
+[31-Oct-2017 14:36:18 Etc/GMT] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/ihewarwanda/public_html/lib/back/index.php on line 69
+[31-Oct-2017 14:36:18 Etc/GMT] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ihewarwanda/public_html/lib/back/index.php on line 69
+[31-Oct-2017 14:36:18 Etc/GMT] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ihewarwanda/public_html/lib/back/index.php on line 70
+[31-Oct-2017 14:36:18 Etc/GMT] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/ihewarwanda/public_html/lib/back/index.php on line 85
+[31-Oct-2017 14:36:18 Etc/GMT] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ihewarwanda/public_html/lib/back/index.php on line 85
+[31-Oct-2017 14:36:18 Etc/GMT] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ihewarwanda/public_html/lib/back/index.php on line 86
+[31-Oct-2017 14:36:18 Etc/GMT] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/ihewarwanda/public_html/lib/back/index.php on line 101
+[31-Oct-2017 14:36:18 Etc/GMT] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ihewarwanda/public_html/lib/back/index.php on line 101
+[31-Oct-2017 14:36:18 Etc/GMT] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ihewarwanda/public_html/lib/back/index.php on line 102
+[31-Oct-2017 14:36:18 Etc/GMT] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/ihewarwanda/public_html/lib/back/index.php on line 128
+[31-Oct-2017 14:36:18 Etc/GMT] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ihewarwanda/public_html/lib/back/index.php on line 128
+[31-Oct-2017 14:36:18 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ihewarwanda/public_html/lib/back/index.php on line 129
+[31-Oct-2017 14:36:40 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[31-Oct-2017 14:37:33 Etc/GMT] PHP Warning:  include(classes/SendMail.php): failed to open stream: No such file or directory in /home/ihewarwanda/public_html/lib/back/late.php on line 2
+[31-Oct-2017 14:37:33 Etc/GMT] PHP Warning:  include(classes/SendMail.php): failed to open stream: No such file or directory in /home/ihewarwanda/public_html/lib/back/late.php on line 2
+[31-Oct-2017 14:37:33 Etc/GMT] PHP Warning:  include(): Failed opening 'classes/SendMail.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/ihewarwanda/public_html/lib/back/late.php on line 2
+[31-Oct-2017 14:45:34 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[31-Oct-2017 14:45:49 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[31-Oct-2017 15:03:24 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[31-Oct-2017 15:03:24 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[31-Oct-2017 15:03:24 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[31-Oct-2017 15:03:24 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[31-Oct-2017 15:03:24 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[31-Oct-2017 15:03:24 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[31-Oct-2017 15:03:24 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[31-Oct-2017 15:07:33 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[31-Oct-2017 15:07:33 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[31-Oct-2017 15:07:33 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[31-Oct-2017 15:07:33 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[31-Oct-2017 15:07:33 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[31-Oct-2017 15:07:33 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[31-Oct-2017 15:07:33 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[31-Oct-2017 15:12:13 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[31-Oct-2017 15:12:13 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[31-Oct-2017 15:12:13 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[31-Oct-2017 15:12:13 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[31-Oct-2017 15:12:13 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[31-Oct-2017 15:12:13 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[31-Oct-2017 15:12:13 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[31-Oct-2017 15:12:13 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[31-Oct-2017 15:15:55 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[31-Oct-2017 15:15:55 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[31-Oct-2017 15:15:55 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[31-Oct-2017 15:15:55 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[31-Oct-2017 15:15:55 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[31-Oct-2017 15:15:55 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[31-Oct-2017 15:15:55 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[31-Oct-2017 15:15:55 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[31-Oct-2017 15:16:14 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[31-Oct-2017 15:16:14 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[31-Oct-2017 15:16:14 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[31-Oct-2017 15:16:14 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[31-Oct-2017 15:16:14 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[31-Oct-2017 15:16:14 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[31-Oct-2017 15:16:14 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[31-Oct-2017 15:16:14 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[31-Oct-2017 15:16:36 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[31-Oct-2017 15:16:36 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[31-Oct-2017 15:16:36 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[31-Oct-2017 15:16:36 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[31-Oct-2017 15:16:36 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[31-Oct-2017 15:16:36 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[31-Oct-2017 15:16:36 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[31-Oct-2017 15:16:36 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[31-Oct-2017 15:16:53 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[31-Oct-2017 15:16:53 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[31-Oct-2017 15:16:53 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[31-Oct-2017 15:16:53 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[31-Oct-2017 15:16:53 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[31-Oct-2017 15:16:53 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[31-Oct-2017 15:16:53 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[31-Oct-2017 15:16:53 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[31-Oct-2017 15:17:21 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[31-Oct-2017 15:17:21 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[31-Oct-2017 15:17:21 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[31-Oct-2017 15:17:21 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[31-Oct-2017 15:17:21 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[31-Oct-2017 15:17:21 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[31-Oct-2017 15:17:21 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[31-Oct-2017 15:17:21 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[31-Oct-2017 15:20:31 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[31-Oct-2017 15:20:31 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[31-Oct-2017 15:20:31 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[31-Oct-2017 15:20:31 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[31-Oct-2017 15:20:31 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[31-Oct-2017 15:20:31 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[31-Oct-2017 15:20:31 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[31-Oct-2017 15:20:31 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[31-Oct-2017 15:21:06 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[31-Oct-2017 15:21:06 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[31-Oct-2017 15:21:06 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[31-Oct-2017 15:21:06 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[31-Oct-2017 15:21:06 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[31-Oct-2017 15:21:06 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[31-Oct-2017 15:21:06 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[31-Oct-2017 15:21:06 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[31-Oct-2017 15:25:01 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[31-Oct-2017 15:25:01 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[31-Oct-2017 15:25:01 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[31-Oct-2017 15:25:01 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[31-Oct-2017 15:25:01 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[31-Oct-2017 15:25:01 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[31-Oct-2017 15:25:01 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[31-Oct-2017 15:25:01 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[31-Oct-2017 15:25:45 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[31-Oct-2017 15:25:45 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[31-Oct-2017 15:25:45 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[31-Oct-2017 15:25:45 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[31-Oct-2017 15:25:45 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[31-Oct-2017 15:25:45 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[31-Oct-2017 15:25:45 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[31-Oct-2017 15:25:45 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[31-Oct-2017 15:29:14 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[31-Oct-2017 15:29:14 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[31-Oct-2017 15:29:14 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[31-Oct-2017 15:29:14 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[31-Oct-2017 15:29:14 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[31-Oct-2017 15:29:14 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[31-Oct-2017 15:29:14 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[31-Oct-2017 15:29:14 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[31-Oct-2017 18:23:12 Etc/GMT] PHP Notice:  Undefined index: login_user in /home/ihewarwanda/public_html/lib/session.php on line 6
+[31-Oct-2017 18:23:12 Etc/GMT] PHP Notice:  Undefined index: login_user in /home/ihewarwanda/public_html/lib/back/header.php on line 5
+[31-Oct-2017 18:23:12 Etc/GMT] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/ihewarwanda/public_html/lib/back/index.php on line 69
+[31-Oct-2017 18:23:12 Etc/GMT] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ihewarwanda/public_html/lib/back/index.php on line 69
+[31-Oct-2017 18:23:12 Etc/GMT] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ihewarwanda/public_html/lib/back/index.php on line 70
+[31-Oct-2017 18:23:12 Etc/GMT] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/ihewarwanda/public_html/lib/back/index.php on line 85
+[31-Oct-2017 18:23:12 Etc/GMT] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ihewarwanda/public_html/lib/back/index.php on line 85
+[31-Oct-2017 18:23:12 Etc/GMT] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ihewarwanda/public_html/lib/back/index.php on line 86
+[31-Oct-2017 18:23:12 Etc/GMT] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/ihewarwanda/public_html/lib/back/index.php on line 101
+[31-Oct-2017 18:23:12 Etc/GMT] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ihewarwanda/public_html/lib/back/index.php on line 101
+[31-Oct-2017 18:23:12 Etc/GMT] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ihewarwanda/public_html/lib/back/index.php on line 102
+[31-Oct-2017 18:23:12 Etc/GMT] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/ihewarwanda/public_html/lib/back/index.php on line 128
+[31-Oct-2017 18:23:12 Etc/GMT] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ihewarwanda/public_html/lib/back/index.php on line 128
+[31-Oct-2017 18:23:12 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ihewarwanda/public_html/lib/back/index.php on line 129
+[01-Nov-2017 08:41:58 Etc/GMT] PHP Notice:  Undefined index: login_user in /home/ihewarwanda/public_html/lib/session.php on line 6
+[01-Nov-2017 08:41:58 Etc/GMT] PHP Notice:  Undefined index: login_user in /home/ihewarwanda/public_html/lib/back/header.php on line 5
+[01-Nov-2017 08:41:58 Etc/GMT] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/ihewarwanda/public_html/lib/back/report.php on line 46
+[01-Nov-2017 08:41:58 Etc/GMT] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ihewarwanda/public_html/lib/back/report.php on line 46
+[01-Nov-2017 08:41:58 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ihewarwanda/public_html/lib/back/report.php on line 47
+[01-Nov-2017 14:12:01 Etc/GMT] PHP Notice:  Undefined index: login_user in /home/ihewarwanda/public_html/lib/session.php on line 6
+[01-Nov-2017 14:12:01 Etc/GMT] PHP Notice:  Undefined index: login_user in /home/ihewarwanda/public_html/lib/back/header.php on line 5
+[01-Nov-2017 14:12:01 Etc/GMT] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/ihewarwanda/public_html/lib/back/book.php on line 206
+[01-Nov-2017 14:12:01 Etc/GMT] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ihewarwanda/public_html/lib/back/book.php on line 206
+[01-Nov-2017 14:12:01 Etc/GMT] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ihewarwanda/public_html/lib/back/book.php on line 207
+[01-Nov-2017 15:03:15 Etc/GMT] PHP Notice:  Undefined index: login_user in /home/ihewarwanda/public_html/lib/session.php on line 6
+[01-Nov-2017 15:03:15 Etc/GMT] PHP Notice:  Undefined index: login_user in /home/ihewarwanda/public_html/lib/back/header.php on line 5
+[01-Nov-2017 15:03:15 Etc/GMT] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/ihewarwanda/public_html/lib/back/book.php on line 206
+[01-Nov-2017 15:03:15 Etc/GMT] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ihewarwanda/public_html/lib/back/book.php on line 206
+[01-Nov-2017 15:03:15 Etc/GMT] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ihewarwanda/public_html/lib/back/book.php on line 207
+[01-Nov-2017 15:04:38 Etc/GMT] PHP Notice:  Undefined index: login_user in /home/ihewarwanda/public_html/lib/session.php on line 6
+[01-Nov-2017 15:04:38 Etc/GMT] PHP Notice:  Undefined index: login_user in /home/ihewarwanda/public_html/lib/back/header.php on line 5
+[01-Nov-2017 15:04:38 Etc/GMT] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/ihewarwanda/public_html/lib/back/book.php on line 206
+[01-Nov-2017 15:04:38 Etc/GMT] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ihewarwanda/public_html/lib/back/book.php on line 206
+[01-Nov-2017 15:04:38 Etc/GMT] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ihewarwanda/public_html/lib/back/book.php on line 207
+[01-Nov-2017 16:07:59 Etc/GMT] PHP Notice:  Undefined index: login_user in /home/ihewarwanda/public_html/lib/session.php on line 6
+[01-Nov-2017 16:07:59 Etc/GMT] PHP Notice:  Undefined index: login_user in /home/ihewarwanda/public_html/lib/back/header.php on line 5
+[01-Nov-2017 16:07:59 Etc/GMT] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/ihewarwanda/public_html/lib/back/book.php on line 206
+[01-Nov-2017 16:07:59 Etc/GMT] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ihewarwanda/public_html/lib/back/book.php on line 206
+[01-Nov-2017 16:07:59 Etc/GMT] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ihewarwanda/public_html/lib/back/book.php on line 207
+[02-Nov-2017 12:40:43 Etc/GMT] PHP Notice:  Undefined index: login_user in /home/ihewarwanda/public_html/lib/session.php on line 6
+[02-Nov-2017 12:40:43 Etc/GMT] PHP Notice:  Undefined index: login_user in /home/ihewarwanda/public_html/lib/back/header.php on line 5
+[02-Nov-2017 12:40:43 Etc/GMT] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/ihewarwanda/public_html/lib/back/index.php on line 69
+[02-Nov-2017 12:40:43 Etc/GMT] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ihewarwanda/public_html/lib/back/index.php on line 69
+[02-Nov-2017 12:40:43 Etc/GMT] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ihewarwanda/public_html/lib/back/index.php on line 70
+[02-Nov-2017 12:40:43 Etc/GMT] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/ihewarwanda/public_html/lib/back/index.php on line 85
+[02-Nov-2017 12:40:43 Etc/GMT] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ihewarwanda/public_html/lib/back/index.php on line 85
+[02-Nov-2017 12:40:43 Etc/GMT] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ihewarwanda/public_html/lib/back/index.php on line 86
+[02-Nov-2017 12:40:43 Etc/GMT] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/ihewarwanda/public_html/lib/back/index.php on line 101
+[02-Nov-2017 12:40:43 Etc/GMT] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ihewarwanda/public_html/lib/back/index.php on line 101
+[02-Nov-2017 12:40:43 Etc/GMT] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ihewarwanda/public_html/lib/back/index.php on line 102
+[02-Nov-2017 12:40:43 Etc/GMT] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/ihewarwanda/public_html/lib/back/index.php on line 128
+[02-Nov-2017 12:40:43 Etc/GMT] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ihewarwanda/public_html/lib/back/index.php on line 128
+[02-Nov-2017 12:40:43 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ihewarwanda/public_html/lib/back/index.php on line 129
+[02-Nov-2017 13:56:55 Etc/GMT] PHP Notice:  Undefined index: login_user in /home/ihewarwanda/public_html/lib/session.php on line 6
+[02-Nov-2017 13:56:55 Etc/GMT] PHP Notice:  Undefined index: login_user in /home/ihewarwanda/public_html/lib/back/header.php on line 5
+[02-Nov-2017 13:56:55 Etc/GMT] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/ihewarwanda/public_html/lib/back/student.php on line 102
+[02-Nov-2017 13:56:55 Etc/GMT] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ihewarwanda/public_html/lib/back/student.php on line 102
+[02-Nov-2017 13:56:55 Etc/GMT] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ihewarwanda/public_html/lib/back/student.php on line 103
+[03-Nov-2017 09:28:15 Etc/GMT] PHP Notice:  Undefined index: login_user in /home/ihewarwanda/public_html/lib/session.php on line 6
+[03-Nov-2017 09:28:15 Etc/GMT] PHP Notice:  Undefined index: login_user in /home/ihewarwanda/public_html/lib/back/header.php on line 5
+[03-Nov-2017 09:28:15 Etc/GMT] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/ihewarwanda/public_html/lib/back/index.php on line 69
+[03-Nov-2017 09:28:15 Etc/GMT] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ihewarwanda/public_html/lib/back/index.php on line 69
+[03-Nov-2017 09:28:15 Etc/GMT] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ihewarwanda/public_html/lib/back/index.php on line 70
+[03-Nov-2017 09:28:15 Etc/GMT] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/ihewarwanda/public_html/lib/back/index.php on line 85
+[03-Nov-2017 09:28:15 Etc/GMT] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ihewarwanda/public_html/lib/back/index.php on line 85
+[03-Nov-2017 09:28:15 Etc/GMT] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ihewarwanda/public_html/lib/back/index.php on line 86
+[03-Nov-2017 09:28:15 Etc/GMT] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/ihewarwanda/public_html/lib/back/index.php on line 101
+[03-Nov-2017 09:28:15 Etc/GMT] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ihewarwanda/public_html/lib/back/index.php on line 101
+[03-Nov-2017 09:28:15 Etc/GMT] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ihewarwanda/public_html/lib/back/index.php on line 102
+[03-Nov-2017 09:28:15 Etc/GMT] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/ihewarwanda/public_html/lib/back/index.php on line 128
+[03-Nov-2017 09:28:15 Etc/GMT] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ihewarwanda/public_html/lib/back/index.php on line 128
+[03-Nov-2017 09:28:15 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ihewarwanda/public_html/lib/back/index.php on line 129
+[03-Nov-2017 10:09:52 Etc/GMT] PHP Parse error:  syntax error, unexpected 'Returned' (T_STRING) in /home/ihewarwanda/public_html/lib/back/book.php on line 270
+[03-Nov-2017 10:09:59 Etc/GMT] PHP Parse error:  syntax error, unexpected 'Returned' (T_STRING) in /home/ihewarwanda/public_html/lib/back/book.php on line 270
+[03-Nov-2017 10:10:12 Etc/GMT] PHP Parse error:  syntax error, unexpected 'Returned' (T_STRING) in /home/ihewarwanda/public_html/lib/back/book.php on line 270
+[03-Nov-2017 10:11:50 Etc/GMT] PHP Parse error:  syntax error, unexpected 'Returned' (T_STRING) in /home/ihewarwanda/public_html/lib/back/book.php on line 270
+[03-Nov-2017 10:12:08 Etc/GMT] PHP Parse error:  syntax error, unexpected 'Returned' (T_STRING) in /home/ihewarwanda/public_html/lib/back/book.php on line 270
+[03-Nov-2017 10:12:44 Etc/GMT] PHP Parse error:  syntax error, unexpected 'Returned' (T_STRING) in /home/ihewarwanda/public_html/lib/back/book.php on line 270
+[03-Nov-2017 10:13:13 Etc/GMT] PHP Notice:  Undefined index: login_user in /home/ihewarwanda/public_html/lib/session.php on line 6
+[03-Nov-2017 10:13:13 Etc/GMT] PHP Notice:  Undefined index: login_user in /home/ihewarwanda/public_html/lib/back/header.php on line 5
+[03-Nov-2017 10:13:13 Etc/GMT] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/ihewarwanda/public_html/lib/back/index.php on line 69
+[03-Nov-2017 10:13:13 Etc/GMT] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ihewarwanda/public_html/lib/back/index.php on line 69
+[03-Nov-2017 10:13:13 Etc/GMT] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ihewarwanda/public_html/lib/back/index.php on line 70
+[03-Nov-2017 10:13:13 Etc/GMT] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/ihewarwanda/public_html/lib/back/index.php on line 85
+[03-Nov-2017 10:13:13 Etc/GMT] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ihewarwanda/public_html/lib/back/index.php on line 85
+[03-Nov-2017 10:13:13 Etc/GMT] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ihewarwanda/public_html/lib/back/index.php on line 86
+[03-Nov-2017 10:13:13 Etc/GMT] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/ihewarwanda/public_html/lib/back/index.php on line 101
+[03-Nov-2017 10:13:13 Etc/GMT] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ihewarwanda/public_html/lib/back/index.php on line 101
+[03-Nov-2017 10:13:13 Etc/GMT] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ihewarwanda/public_html/lib/back/index.php on line 102
+[03-Nov-2017 10:13:13 Etc/GMT] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/ihewarwanda/public_html/lib/back/index.php on line 128
+[03-Nov-2017 10:13:13 Etc/GMT] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ihewarwanda/public_html/lib/back/index.php on line 128
+[03-Nov-2017 10:13:13 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ihewarwanda/public_html/lib/back/index.php on line 129
+[03-Nov-2017 10:15:35 Etc/GMT] PHP Parse error:  syntax error, unexpected 'Returned' (T_STRING) in /home/ihewarwanda/public_html/lib/back/book.php on line 268
+[03-Nov-2017 10:16:10 Etc/GMT] PHP Parse error:  syntax error, unexpected 'Returned' (T_STRING) in /home/ihewarwanda/public_html/lib/back/book.php on line 268
+[03-Nov-2017 10:37:46 Etc/GMT] PHP Warning:  include(classes/SendMail.php): failed to open stream: No such file or directory in /home/ihewarwanda/public_html/lib/back/late.php on line 2
+[03-Nov-2017 10:37:46 Etc/GMT] PHP Warning:  include(classes/SendMail.php): failed to open stream: No such file or directory in /home/ihewarwanda/public_html/lib/back/late.php on line 2
+[03-Nov-2017 10:37:46 Etc/GMT] PHP Warning:  include(): Failed opening 'classes/SendMail.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/ihewarwanda/public_html/lib/back/late.php on line 2
+[03-Nov-2017 10:38:38 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[03-Nov-2017 10:38:38 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[03-Nov-2017 10:38:38 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[03-Nov-2017 10:38:38 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[03-Nov-2017 10:38:38 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[03-Nov-2017 10:38:38 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[03-Nov-2017 11:42:52 Etc/GMT] PHP Notice:  Undefined index: login_user in /home/ihewarwanda/public_html/lib/session.php on line 6
+[03-Nov-2017 11:42:52 Etc/GMT] PHP Notice:  Undefined index: login_user in /home/ihewarwanda/public_html/lib/back/header.php on line 5
+[03-Nov-2017 11:42:52 Etc/GMT] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/ihewarwanda/public_html/lib/back/index.php on line 69
+[03-Nov-2017 11:42:52 Etc/GMT] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ihewarwanda/public_html/lib/back/index.php on line 69
+[03-Nov-2017 11:42:52 Etc/GMT] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ihewarwanda/public_html/lib/back/index.php on line 70
+[03-Nov-2017 11:42:52 Etc/GMT] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/ihewarwanda/public_html/lib/back/index.php on line 85
+[03-Nov-2017 11:42:52 Etc/GMT] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ihewarwanda/public_html/lib/back/index.php on line 85
+[03-Nov-2017 11:42:52 Etc/GMT] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ihewarwanda/public_html/lib/back/index.php on line 86
+[03-Nov-2017 11:42:52 Etc/GMT] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/ihewarwanda/public_html/lib/back/index.php on line 101
+[03-Nov-2017 11:42:52 Etc/GMT] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ihewarwanda/public_html/lib/back/index.php on line 101
+[03-Nov-2017 11:42:52 Etc/GMT] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ihewarwanda/public_html/lib/back/index.php on line 102
+[03-Nov-2017 11:42:52 Etc/GMT] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/ihewarwanda/public_html/lib/back/index.php on line 128
+[03-Nov-2017 11:42:52 Etc/GMT] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ihewarwanda/public_html/lib/back/index.php on line 128
+[03-Nov-2017 11:42:52 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ihewarwanda/public_html/lib/back/index.php on line 129
+[03-Nov-2017 11:52:52 Etc/GMT] PHP Notice:  Undefined index: login_user in /home/ihewarwanda/public_html/lib/session.php on line 6
+[03-Nov-2017 11:52:52 Etc/GMT] PHP Notice:  Undefined index: login_user in /home/ihewarwanda/public_html/lib/back/header.php on line 5
+[03-Nov-2017 11:52:52 Etc/GMT] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/ihewarwanda/public_html/lib/back/book.php on line 208
+[03-Nov-2017 11:52:52 Etc/GMT] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ihewarwanda/public_html/lib/back/book.php on line 208
+[03-Nov-2017 11:52:52 Etc/GMT] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ihewarwanda/public_html/lib/back/book.php on line 209
+[03-Nov-2017 12:21:06 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[03-Nov-2017 12:21:06 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[03-Nov-2017 12:21:06 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[03-Nov-2017 12:21:53 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[03-Nov-2017 12:21:53 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[03-Nov-2017 12:21:53 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[03-Nov-2017 12:21:53 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[03-Nov-2017 12:33:26 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[03-Nov-2017 12:33:26 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[03-Nov-2017 12:33:26 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[03-Nov-2017 12:33:26 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[03-Nov-2017 12:40:06 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[03-Nov-2017 12:40:06 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[03-Nov-2017 12:40:06 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[03-Nov-2017 12:40:06 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[03-Nov-2017 12:40:06 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[03-Nov-2017 12:40:06 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[03-Nov-2017 12:40:06 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[03-Nov-2017 12:43:16 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[03-Nov-2017 12:43:16 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[03-Nov-2017 12:43:16 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[03-Nov-2017 12:43:16 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[03-Nov-2017 12:43:16 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[03-Nov-2017 12:43:16 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[03-Nov-2017 12:43:16 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[03-Nov-2017 12:43:29 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[03-Nov-2017 12:43:29 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[03-Nov-2017 12:43:29 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[03-Nov-2017 12:43:29 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[03-Nov-2017 12:43:29 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[03-Nov-2017 12:43:29 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[03-Nov-2017 12:43:29 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[03-Nov-2017 14:29:52 Etc/GMT] PHP Notice:  Undefined index: login_user in /home/ihewarwanda/public_html/lib/session.php on line 6
+[03-Nov-2017 14:29:52 Etc/GMT] PHP Notice:  Undefined index: login_user in /home/ihewarwanda/public_html/lib/back/header.php on line 5
+[03-Nov-2017 14:29:52 Etc/GMT] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/ihewarwanda/public_html/lib/back/book.php on line 208
+[03-Nov-2017 14:29:52 Etc/GMT] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ihewarwanda/public_html/lib/back/book.php on line 208
+[03-Nov-2017 14:29:52 Etc/GMT] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ihewarwanda/public_html/lib/back/book.php on line 209
+[03-Nov-2017 14:33:00 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[03-Nov-2017 14:33:00 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[03-Nov-2017 14:33:00 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[03-Nov-2017 14:33:00 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[03-Nov-2017 14:33:00 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[03-Nov-2017 14:33:00 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[03-Nov-2017 14:33:00 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[03-Nov-2017 15:00:59 Etc/GMT] PHP Warning:  include(classes/SendMail.php): failed to open stream: No such file or directory in /home/ihewarwanda/public_html/lib/back/late.php on line 2
+[03-Nov-2017 15:00:59 Etc/GMT] PHP Warning:  include(classes/SendMail.php): failed to open stream: No such file or directory in /home/ihewarwanda/public_html/lib/back/late.php on line 2
+[03-Nov-2017 15:00:59 Etc/GMT] PHP Warning:  include(): Failed opening 'classes/SendMail.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/ihewarwanda/public_html/lib/back/late.php on line 2
+[03-Nov-2017 15:00:59 Etc/GMT] PHP Notice:  Undefined index: login_user in /home/ihewarwanda/public_html/lib/session.php on line 6
+[03-Nov-2017 15:00:59 Etc/GMT] PHP Notice:  Undefined index: login_user in /home/ihewarwanda/public_html/lib/back/header.php on line 5
+[03-Nov-2017 15:00:59 Etc/GMT] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/ihewarwanda/public_html/lib/back/late.php on line 43
+[03-Nov-2017 15:00:59 Etc/GMT] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ihewarwanda/public_html/lib/back/late.php on line 43
+[03-Nov-2017 15:00:59 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ihewarwanda/public_html/lib/back/late.php on line 44
+[03-Nov-2017 15:01:14 Etc/GMT] PHP Warning:  include(classes/SendMail.php): failed to open stream: No such file or directory in /home/ihewarwanda/public_html/lib/back/late.php on line 2
+[03-Nov-2017 15:01:14 Etc/GMT] PHP Warning:  include(classes/SendMail.php): failed to open stream: No such file or directory in /home/ihewarwanda/public_html/lib/back/late.php on line 2
+[03-Nov-2017 15:01:14 Etc/GMT] PHP Warning:  include(): Failed opening 'classes/SendMail.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/ihewarwanda/public_html/lib/back/late.php on line 2
+[03-Nov-2017 15:06:25 Etc/GMT] PHP Notice:  Undefined index: login_user in /home/ihewarwanda/public_html/lib/session.php on line 6
+[03-Nov-2017 15:06:25 Etc/GMT] PHP Notice:  Undefined index: login_user in /home/ihewarwanda/public_html/lib/back/header.php on line 5
+[03-Nov-2017 15:06:25 Etc/GMT] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/ihewarwanda/public_html/lib/back/index.php on line 69
+[03-Nov-2017 15:06:25 Etc/GMT] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ihewarwanda/public_html/lib/back/index.php on line 69
+[03-Nov-2017 15:06:25 Etc/GMT] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ihewarwanda/public_html/lib/back/index.php on line 70
+[03-Nov-2017 15:06:25 Etc/GMT] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/ihewarwanda/public_html/lib/back/index.php on line 85
+[03-Nov-2017 15:06:25 Etc/GMT] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ihewarwanda/public_html/lib/back/index.php on line 85
+[03-Nov-2017 15:06:25 Etc/GMT] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ihewarwanda/public_html/lib/back/index.php on line 86
+[03-Nov-2017 15:06:25 Etc/GMT] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/ihewarwanda/public_html/lib/back/index.php on line 101
+[03-Nov-2017 15:06:25 Etc/GMT] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ihewarwanda/public_html/lib/back/index.php on line 101
+[03-Nov-2017 15:06:25 Etc/GMT] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ihewarwanda/public_html/lib/back/index.php on line 102
+[03-Nov-2017 15:06:25 Etc/GMT] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/ihewarwanda/public_html/lib/back/index.php on line 128
+[03-Nov-2017 15:06:25 Etc/GMT] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ihewarwanda/public_html/lib/back/index.php on line 128
+[03-Nov-2017 15:06:25 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ihewarwanda/public_html/lib/back/index.php on line 129
+[03-Nov-2017 15:06:42 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[03-Nov-2017 15:06:42 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[03-Nov-2017 15:06:42 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[03-Nov-2017 15:06:42 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[03-Nov-2017 15:06:42 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[03-Nov-2017 15:06:42 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[03-Nov-2017 15:06:42 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[05-Nov-2017 05:41:36 Etc/GMT] PHP Notice:  Undefined index: login_user in /home/ihewarwanda/public_html/lib/session.php on line 6
+[05-Nov-2017 05:41:36 Etc/GMT] PHP Notice:  Undefined index: login_user in /home/ihewarwanda/public_html/lib/back/header.php on line 5
+[05-Nov-2017 05:41:36 Etc/GMT] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/ihewarwanda/public_html/lib/back/index.php on line 69
+[05-Nov-2017 05:41:36 Etc/GMT] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ihewarwanda/public_html/lib/back/index.php on line 69
+[05-Nov-2017 05:41:36 Etc/GMT] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ihewarwanda/public_html/lib/back/index.php on line 70
+[05-Nov-2017 05:41:36 Etc/GMT] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/ihewarwanda/public_html/lib/back/index.php on line 85
+[05-Nov-2017 05:41:36 Etc/GMT] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ihewarwanda/public_html/lib/back/index.php on line 85
+[05-Nov-2017 05:41:36 Etc/GMT] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ihewarwanda/public_html/lib/back/index.php on line 86
+[05-Nov-2017 05:41:36 Etc/GMT] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/ihewarwanda/public_html/lib/back/index.php on line 101
+[05-Nov-2017 05:41:36 Etc/GMT] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ihewarwanda/public_html/lib/back/index.php on line 101
+[05-Nov-2017 05:41:36 Etc/GMT] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ihewarwanda/public_html/lib/back/index.php on line 102
+[05-Nov-2017 05:41:36 Etc/GMT] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/ihewarwanda/public_html/lib/back/index.php on line 128
+[05-Nov-2017 05:41:36 Etc/GMT] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ihewarwanda/public_html/lib/back/index.php on line 128
+[05-Nov-2017 05:41:36 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ihewarwanda/public_html/lib/back/index.php on line 129
+[05-Nov-2017 08:50:47 Etc/GMT] PHP Notice:  Undefined index: login_user in /home/ihewarwanda/public_html/lib/session.php on line 6
+[05-Nov-2017 08:50:47 Etc/GMT] PHP Notice:  Undefined index: login_user in /home/ihewarwanda/public_html/lib/back/header.php on line 5
+[05-Nov-2017 08:50:47 Etc/GMT] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/ihewarwanda/public_html/lib/back/book.php on line 208
+[05-Nov-2017 08:50:47 Etc/GMT] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ihewarwanda/public_html/lib/back/book.php on line 208
+[05-Nov-2017 08:50:47 Etc/GMT] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ihewarwanda/public_html/lib/back/book.php on line 209
+[05-Nov-2017 18:15:29 Etc/GMT] PHP Notice:  Undefined index: login_user in /home/ihewarwanda/public_html/lib/session.php on line 6
+[05-Nov-2017 18:15:29 Etc/GMT] PHP Notice:  Undefined index: login_user in /home/ihewarwanda/public_html/lib/back/header.php on line 5
+[05-Nov-2017 18:15:29 Etc/GMT] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/ihewarwanda/public_html/lib/back/book.php on line 208
+[05-Nov-2017 18:15:29 Etc/GMT] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ihewarwanda/public_html/lib/back/book.php on line 208
+[05-Nov-2017 18:15:29 Etc/GMT] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ihewarwanda/public_html/lib/back/book.php on line 209
+[06-Nov-2017 07:04:05 Etc/GMT] PHP Notice:  Undefined index: login_user in /home/ihewarwanda/public_html/lib/session.php on line 6
+[06-Nov-2017 07:04:05 Etc/GMT] PHP Notice:  Undefined index: login_user in /home/ihewarwanda/public_html/lib/back/header.php on line 5
+[06-Nov-2017 07:04:05 Etc/GMT] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/ihewarwanda/public_html/lib/back/book.php on line 208
+[06-Nov-2017 07:04:05 Etc/GMT] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ihewarwanda/public_html/lib/back/book.php on line 208
+[06-Nov-2017 07:04:05 Etc/GMT] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ihewarwanda/public_html/lib/back/book.php on line 209
+[06-Nov-2017 12:00:01 Etc/GMT] PHP Notice:  Undefined index: login_user in /home/ihewarwanda/public_html/lib/session.php on line 6
+[06-Nov-2017 12:00:01 Etc/GMT] PHP Notice:  Undefined index: login_user in /home/ihewarwanda/public_html/lib/back/header.php on line 5
+[06-Nov-2017 12:00:01 Etc/GMT] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/ihewarwanda/public_html/lib/back/student.php on line 102
+[06-Nov-2017 12:00:01 Etc/GMT] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ihewarwanda/public_html/lib/back/student.php on line 102
+[06-Nov-2017 12:00:01 Etc/GMT] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ihewarwanda/public_html/lib/back/student.php on line 103
+[06-Nov-2017 19:01:39 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[06-Nov-2017 19:01:39 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[06-Nov-2017 19:01:39 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[06-Nov-2017 19:01:39 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[06-Nov-2017 19:01:39 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[06-Nov-2017 19:01:39 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[07-Nov-2017 08:12:00 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[07-Nov-2017 08:12:00 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[07-Nov-2017 08:12:00 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[07-Nov-2017 08:12:00 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[07-Nov-2017 08:12:00 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[07-Nov-2017 08:12:00 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[07-Nov-2017 08:12:10 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[07-Nov-2017 08:12:10 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[07-Nov-2017 08:12:10 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[07-Nov-2017 08:12:10 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[07-Nov-2017 08:12:10 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[07-Nov-2017 08:12:10 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[07-Nov-2017 08:33:20 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[07-Nov-2017 08:33:20 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[07-Nov-2017 08:33:20 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[07-Nov-2017 08:33:20 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[07-Nov-2017 08:33:20 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[07-Nov-2017 08:33:20 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[07-Nov-2017 08:33:20 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[07-Nov-2017 09:02:55 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[07-Nov-2017 09:02:55 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[07-Nov-2017 09:02:55 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[07-Nov-2017 09:02:55 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[07-Nov-2017 09:02:55 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[07-Nov-2017 09:02:55 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[07-Nov-2017 09:02:55 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[07-Nov-2017 09:06:19 Etc/GMT] PHP Warning:  include(classes/SendMail.php): failed to open stream: No such file or directory in /home/ihewarwanda/public_html/lib/back/late.php on line 2
+[07-Nov-2017 09:06:19 Etc/GMT] PHP Warning:  include(classes/SendMail.php): failed to open stream: No such file or directory in /home/ihewarwanda/public_html/lib/back/late.php on line 2
+[07-Nov-2017 09:06:19 Etc/GMT] PHP Warning:  include(): Failed opening 'classes/SendMail.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/ihewarwanda/public_html/lib/back/late.php on line 2
+[07-Nov-2017 09:06:30 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[07-Nov-2017 09:06:30 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[07-Nov-2017 09:06:30 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[07-Nov-2017 09:06:30 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[07-Nov-2017 09:06:30 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[07-Nov-2017 09:06:30 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[07-Nov-2017 09:06:30 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[07-Nov-2017 09:06:33 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[07-Nov-2017 09:06:33 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[07-Nov-2017 09:06:33 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[07-Nov-2017 09:06:33 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[07-Nov-2017 09:06:33 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[07-Nov-2017 09:06:33 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[07-Nov-2017 09:06:33 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[07-Nov-2017 09:33:26 Etc/GMT] PHP Notice:  Undefined index: login_user in /home/ihewarwanda/public_html/lib/session.php on line 6
+[07-Nov-2017 09:33:26 Etc/GMT] PHP Notice:  Undefined index: login_user in /home/ihewarwanda/public_html/lib/back/header.php on line 5
+[07-Nov-2017 09:33:26 Etc/GMT] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/ihewarwanda/public_html/lib/back/index.php on line 69
+[07-Nov-2017 09:33:26 Etc/GMT] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ihewarwanda/public_html/lib/back/index.php on line 69
+[07-Nov-2017 09:33:26 Etc/GMT] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ihewarwanda/public_html/lib/back/index.php on line 70
+[07-Nov-2017 09:33:26 Etc/GMT] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/ihewarwanda/public_html/lib/back/index.php on line 85
+[07-Nov-2017 09:33:26 Etc/GMT] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ihewarwanda/public_html/lib/back/index.php on line 85
+[07-Nov-2017 09:33:26 Etc/GMT] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ihewarwanda/public_html/lib/back/index.php on line 86
+[07-Nov-2017 09:33:26 Etc/GMT] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/ihewarwanda/public_html/lib/back/index.php on line 101
+[07-Nov-2017 09:33:26 Etc/GMT] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ihewarwanda/public_html/lib/back/index.php on line 101
+[07-Nov-2017 09:33:26 Etc/GMT] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ihewarwanda/public_html/lib/back/index.php on line 102
+[07-Nov-2017 09:33:26 Etc/GMT] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/ihewarwanda/public_html/lib/back/index.php on line 128
+[07-Nov-2017 09:33:26 Etc/GMT] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ihewarwanda/public_html/lib/back/index.php on line 128
+[07-Nov-2017 09:33:26 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ihewarwanda/public_html/lib/back/index.php on line 129
+[07-Nov-2017 09:36:17 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[07-Nov-2017 09:36:17 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[07-Nov-2017 09:36:17 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[07-Nov-2017 09:36:17 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[07-Nov-2017 09:36:17 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[07-Nov-2017 09:36:17 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[07-Nov-2017 09:36:17 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[07-Nov-2017 09:36:17 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[07-Nov-2017 09:42:21 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[07-Nov-2017 09:42:21 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[07-Nov-2017 09:42:21 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[07-Nov-2017 09:42:21 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[07-Nov-2017 09:42:21 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[07-Nov-2017 09:42:21 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[07-Nov-2017 09:42:21 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[07-Nov-2017 09:42:21 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ihewarwanda/public_html/lib/back/report.php on line 53
+[07-Nov-2017 10:59:53 Etc/GMT] PHP Notice:  Undefined index: login_user in /home/ihewarwanda/public_html/lib/session.php on line 6
+[07-Nov-2017 10:59:53 Etc/GMT] PHP Notice:  Undefined index: login_user in /home/ihewarwanda/public_html/lib/back/header.php on line 5
+[07-Nov-2017 10:59:53 Etc/GMT] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/ihewarwanda/public_html/lib/back/index.php on line 69
+[07-Nov-2017 10:59:53 Etc/GMT] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ihewarwanda/public_html/lib/back/index.php on line 69
+[07-Nov-2017 10:59:53 Etc/GMT] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ihewarwanda/public_html/lib/back/index.php on line 70
+[07-Nov-2017 10:59:53 Etc/GMT] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/ihewarwanda/public_html/lib/back/index.php on line 85
+[07-Nov-2017 10:59:53 Etc/GMT] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ihewarwanda/public_html/lib/back/index.php on line 85
+[07-Nov-2017 10:59:53 Etc/GMT] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ihewarwanda/public_html/lib/back/index.php on line 86
+[07-Nov-2017 10:59:53 Etc/GMT] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/ihewarwanda/public_html/lib/back/index.php on line 101
+[07-Nov-2017 10:59:53 Etc/GMT] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ihewarwanda/public_html/lib/back/index.php on line 101
+[07-Nov-2017 10:59:53 Etc/GMT] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ihewarwanda/public_html/lib/back/index.php on line 102
+[07-Nov-2017 10:59:53 Etc/GMT] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/ihewarwanda/public_html/lib/back/index.php on line 128
+[07-Nov-2017 10:59:53 Etc/GMT] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ihewarwanda/public_html/lib/back/index.php on line 128
+[07-Nov-2017 10:59:53 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ihewarwanda/public_html/lib/back/index.php on line 129
+[07-Nov-2017 18:01:13 Etc/GMT] PHP Notice:  Undefined index: login_user in /home/ihewarwanda/public_html/lib/session.php on line 6
+[07-Nov-2017 18:01:13 Etc/GMT] PHP Notice:  Undefined index: login_user in /home/ihewarwanda/public_html/lib/back/header.php on line 5
+[07-Nov-2017 18:01:13 Etc/GMT] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/ihewarwanda/public_html/lib/back/student.php on line 102
+[07-Nov-2017 18:01:13 Etc/GMT] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ihewarwanda/public_html/lib/back/student.php on line 102
+[07-Nov-2017 18:01:13 Etc/GMT] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ihewarwanda/public_html/lib/back/student.php on line 103
+[08-Nov-2017 07:01:22 Etc/GMT] PHP Notice:  Undefined index: login_user in /home/ihewarwanda/public_html/lib/session.php on line 6
+[08-Nov-2017 07:01:22 Etc/GMT] PHP Notice:  Undefined index: login_user in /home/ihewarwanda/public_html/lib/back/header.php on line 5
+[08-Nov-2017 07:01:22 Etc/GMT] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/ihewarwanda/public_html/lib/back/index.php on line 69
+[08-Nov-2017 07:01:22 Etc/GMT] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ihewarwanda/public_html/lib/back/index.php on line 69
+[08-Nov-2017 07:01:22 Etc/GMT] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ihewarwanda/public_html/lib/back/index.php on line 70
+[08-Nov-2017 07:01:22 Etc/GMT] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/ihewarwanda/public_html/lib/back/index.php on line 85
+[08-Nov-2017 07:01:22 Etc/GMT] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ihewarwanda/public_html/lib/back/index.php on line 85
+[08-Nov-2017 07:01:22 Etc/GMT] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ihewarwanda/public_html/lib/back/index.php on line 86
+[08-Nov-2017 07:01:22 Etc/GMT] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/ihewarwanda/public_html/lib/back/index.php on line 101
+[08-Nov-2017 07:01:22 Etc/GMT] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ihewarwanda/public_html/lib/back/index.php on line 101
+[08-Nov-2017 07:01:22 Etc/GMT] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ihewarwanda/public_html/lib/back/index.php on line 102
+[08-Nov-2017 07:01:22 Etc/GMT] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/ihewarwanda/public_html/lib/back/index.php on line 128
+[08-Nov-2017 07:01:22 Etc/GMT] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ihewarwanda/public_html/lib/back/index.php on line 128
+[08-Nov-2017 07:01:22 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ihewarwanda/public_html/lib/back/index.php on line 129
+[08-Nov-2017 07:15:43 Etc/GMT] PHP Notice:  Undefined index: login_user in /home/ihewarwanda/public_html/lib/session.php on line 6
+[08-Nov-2017 07:15:43 Etc/GMT] PHP Notice:  Undefined index: login_user in /home/ihewarwanda/public_html/lib/back/header.php on line 5
+[08-Nov-2017 07:15:43 Etc/GMT] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/ihewarwanda/public_html/lib/back/index.php on line 69
+[08-Nov-2017 07:15:43 Etc/GMT] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ihewarwanda/public_html/lib/back/index.php on line 69
+[08-Nov-2017 07:15:43 Etc/GMT] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ihewarwanda/public_html/lib/back/index.php on line 70
+[08-Nov-2017 07:15:43 Etc/GMT] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/ihewarwanda/public_html/lib/back/index.php on line 85
+[08-Nov-2017 07:15:43 Etc/GMT] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ihewarwanda/public_html/lib/back/index.php on line 85
+[08-Nov-2017 07:15:43 Etc/GMT] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ihewarwanda/public_html/lib/back/index.php on line 86
+[08-Nov-2017 07:15:43 Etc/GMT] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/ihewarwanda/public_html/lib/back/index.php on line 101
+[08-Nov-2017 07:15:43 Etc/GMT] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ihewarwanda/public_html/lib/back/index.php on line 101
+[08-Nov-2017 07:15:43 Etc/GMT] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ihewarwanda/public_html/lib/back/index.php on line 102
+[08-Nov-2017 07:15:43 Etc/GMT] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/ihewarwanda/public_html/lib/back/index.php on line 128
+[08-Nov-2017 07:15:43 Etc/GMT] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ihewarwanda/public_html/lib/back/index.php on line 128
+[08-Nov-2017 07:15:43 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ihewarwanda/public_html/lib/back/index.php on line 129
+[08-Nov-2017 11:40:08 Etc/GMT] PHP Notice:  Undefined index: login_user in /home/ihewarwanda/public_html/lib/session.php on line 6
+[08-Nov-2017 11:40:08 Etc/GMT] PHP Notice:  Undefined index: login_user in /home/ihewarwanda/public_html/lib/back/header.php on line 5
+[08-Nov-2017 11:40:08 Etc/GMT] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/ihewarwanda/public_html/lib/back/student.php on line 102
+[08-Nov-2017 11:40:08 Etc/GMT] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ihewarwanda/public_html/lib/back/student.php on line 102
+[08-Nov-2017 11:40:08 Etc/GMT] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ihewarwanda/public_html/lib/back/student.php on line 103
+[08-Nov-2017 12:07:06 Etc/GMT] PHP Notice:  Undefined index: login_user in /home/ihewarwanda/public_html/lib/session.php on line 6
+[08-Nov-2017 12:07:06 Etc/GMT] PHP Notice:  Undefined index: login_user in /home/ihewarwanda/public_html/lib/back/header.php on line 5
+[08-Nov-2017 12:07:06 Etc/GMT] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/ihewarwanda/public_html/lib/back/index.php on line 69
+[08-Nov-2017 12:07:06 Etc/GMT] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ihewarwanda/public_html/lib/back/index.php on line 69
+[08-Nov-2017 12:07:06 Etc/GMT] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ihewarwanda/public_html/lib/back/index.php on line 70
+[08-Nov-2017 12:07:06 Etc/GMT] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/ihewarwanda/public_html/lib/back/index.php on line 85
+[08-Nov-2017 12:07:06 Etc/GMT] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ihewarwanda/public_html/lib/back/index.php on line 85
+[08-Nov-2017 12:07:06 Etc/GMT] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ihewarwanda/public_html/lib/back/index.php on line 86
+[08-Nov-2017 12:07:06 Etc/GMT] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/ihewarwanda/public_html/lib/back/index.php on line 101
+[08-Nov-2017 12:07:06 Etc/GMT] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ihewarwanda/public_html/lib/back/index.php on line 101
+[08-Nov-2017 12:07:06 Etc/GMT] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ihewarwanda/public_html/lib/back/index.php on line 102
+[08-Nov-2017 12:07:06 Etc/GMT] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/ihewarwanda/public_html/lib/back/index.php on line 128
+[08-Nov-2017 12:07:06 Etc/GMT] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ihewarwanda/public_html/lib/back/index.php on line 128
+[08-Nov-2017 12:07:06 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ihewarwanda/public_html/lib/back/index.php on line 129
+[08-Nov-2017 12:07:49 Etc/GMT] PHP Parse error:  syntax error, unexpected ''</td>' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/ihewarwanda/public_html/lib/back/student.php on line 120
