@@ -197,6 +197,8 @@ echo '
                       <th>#</th>
                       <th>Book Name</th>
                       <th>ISBN</th>
+                      <th>Author</th>
+                      <th>Shelf</th>
                       <th>QR Code</th>
                     </tr>
                   </thead>
@@ -217,6 +219,8 @@ echo '
                         <td>'.$take["id"].'</td>
                         <td>'.$take["book_name"].'</td>
                         <td>'.$take["ISBN"].'</td>
+                        <td>'.$take["author"].'</td>
+                        <td>'.$take["shelf"].'</td>
                         <td>'.$take["qr_book"].'</td>
                       </tr>
                       ';
@@ -264,9 +268,8 @@ if(isset($_POST["Import"]))
         //$sql_data = "SELECT * FROM prod_list_1 ";
         while (($emapData = fgetcsv($file, 10000, ",")) !== FALSE)
         {
-            //print_r($emapData);
-            //exit();
-            $sql = "INSERT into books(book_name,ISBN,qr_book) values ('$emapData[0]','$emapData[1]','$emapData[2]')";
+            $qrbook= md5($emapData[0].$emapData[1]);
+            $sql = "INSERT into books(book_name,ISBN,qr_book,author,shelf,status) values ('$emapData[0]','$emapData[1]','$qrbook','$emapData[2]','$emapData[3]','Returned')";
             mysql_query($sql);
         }
         fclose($file);

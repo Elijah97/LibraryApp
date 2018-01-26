@@ -35,10 +35,6 @@ $page_id = 'report';
                       <th>Student Names</th>
                       <th>Student Email</th>
                       <th>Book</th>
-<!--
-                      <th>Qr Student</th>
-                      <th>Qr Book</th>
--->
                       <th>Date Borrowed</th>
                       <th>Date Returned</th>
                       <th>Status</th>
@@ -56,7 +52,7 @@ $page_id = 'report';
                    $book = mysql_query("SELECT * FROM books WHERE qr_book = '$qr_b'");
                         while($b = mysql_fetch_array($book)){
                             $qr_book = $bmgt["qr_book"];
-                            $book = $bmgt["book_name"];
+                            $book = $b["book_name"];
                         
                    $fetch = mysql_query("SELECT * FROM students WHERE qr_student = '$qr_s'");
                    $rows = mysql_num_rows($fetch);
@@ -73,8 +69,6 @@ $page_id = 'report';
                         <td>'.$take["names"].'</td>
                         <td>'.$take["email"].'</td>
                         <td>'.$book.'</td>
-//                        <td>'.dechex($take["qr_student"]).'</td>
-//                        <td>'.dechex($b["qr_book"]).'</td>
                         <td>'.$bmgt["date_borrowed"].'</td>
                         <td>'.$bmgt["date_returned"].'</td>
                         <td>'.$bmgt["status"].'</td>

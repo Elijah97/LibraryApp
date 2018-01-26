@@ -14,7 +14,7 @@ $page_id = 'student';
       <div class="content-wrapper">
         <div class="page-title">
           <div>
-            <h1><i class="fa fa-user"></i>&nbsp; Student</h1>
+            <h1><i class="fa fa-user"></i>&nbsp; Student/Staff</h1>
             </div>
           <div>
             <ul class="breadcrumb">
@@ -91,9 +91,9 @@ $page_id = 'student';
                   <thead>
                     <tr>
                       <th>#</th>
-                      <th>Student Names</th>
-                      <th>Student Email</th>
-                      <th>Hashed Code</th>
+                      <th>Student/Staff Names</th>
+                      <th>Student/Staff Email</th>
+                      <th>Student/Staff Id</th>
                     </tr>
                   </thead>
                   <tbody>
@@ -109,13 +109,24 @@ $page_id = 'student';
 
                 while($take = mysql_fetch_array($fetch))
                     {
+                    if($take["StdId"] != 0){
                     echo '  <tr>
                         <td>'.$take["id"].'</td>
                         <td>'.$take["names"].'</td>
                         <td>'.$take["email"].'</td>
-                        <td>'.$take["qr_student"].'</td>
+                        <td>'.$take["StdId"].'</td>
                       </tr>
                       ';
+                        }
+                    else{
+                        echo '  <tr>
+                        <td>'.$take["id"].'</td>
+                        <td>'.$take["names"].'</td>
+                        <td>'.$take["email"].'</td>
+                        <td> Staff Member</td>
+                      </tr>
+                      ';
+                        }
                     }}
                       ?>
                   </tbody>
@@ -160,12 +171,12 @@ elseif(isset($_POST["Import"]))
         {
             //print_r($emapData);
             //exit();
-            $sql = "INSERT into students(names,email,qr_student) values ('$emapData[0]','$emapData[1]','$emapData[2]')";
+            $sql = "INSERT into students(names,email,qr_student,StdId) values ('$emapData[0]','$emapData[1]','$emapData[2]','$emapData[3]')";
             mysql_query($sql);
         }
         fclose($file);
         echo 'CSV File has been successfully Imported';
-        header('Location: students.php');
+        header('Location: student.php');
     }
     else
         echo 'Invalid File:Please Upload CSV File';
