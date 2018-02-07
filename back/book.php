@@ -5,6 +5,7 @@ $page_id = 'book';
 <!DOCTYPE html>
 <html>
   <head>
+    <?php include "scripts.php"; ?>
   </head>
   <body class="sidebar-mini fixed">
     <div class="wrapper">
@@ -52,92 +53,71 @@ $page_id = 'book';
             </div>
           </div>
           <div class="col-lg-6">
-            <?php    
-/*
- * PHP QR Code encoder
- *
- * Exemplatory usage
- *
- * PHP QR Code is distributed under LGPL 3
- * Copyright (C) 2010 Dominik Dzienia <deltalab at poczta dot fm>
- *
- * This library is free software; you can redistribute it and/or
- * modify it under the terms of the GNU Lesser General Public
- * License as published by the Free Software Foundation; either
- * version 3 of the License, or any later version.
- *
- * This library is distributed in the hope that it will be useful,
- * but WITHOUT ANY WARRANTY; without even the implied warranty of
- * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU
- * Lesser General Public License for more details.
- *
- * You should have received a copy of the GNU Lesser General Public
- * License along with this library; if not, write to the Free Software
- * Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA 02110-1301 USA
- */
-    
+            <?php
+
+
 //    echo "<h1>PHP QR Code</h1><hr/>";
-    
+
     //set it to writable location, a place for temp generated PNG files
     $PNG_TEMP_DIR = dirname(__FILE__).DIRECTORY_SEPARATOR.'temp'.DIRECTORY_SEPARATOR;
-    
+
     //html PNG location prefix
     $PNG_WEB_DIR = 'temp/';
 
-    include "qrlib.php";    
-    
+    include "qrlib.php";
+
     //ofcourse we need rights to create temp dir
     if (!file_exists($PNG_TEMP_DIR))
         mkdir($PNG_TEMP_DIR);
-    
-    
+
+
     $filename = $PNG_TEMP_DIR.'test.png';
-    
+
     //processing form input
     //remember to sanitize user input in real-life solution !!!
     $errorCorrectionLevel = 'L';
     if (isset($_REQUEST['level']) && in_array($_REQUEST['level'], array('L','M','Q','H')))
-        $errorCorrectionLevel = $_REQUEST['level'];    
+        $errorCorrectionLevel = $_REQUEST['level'];
 
     $matrixPointSize = 6;
     if (isset($_REQUEST['size']))
         $matrixPointSize = min(max((int)$_REQUEST['size'], 1), 10);
 
 
-    if (isset($_REQUEST['data'])) { 
-    
+    if (isset($_REQUEST['data'])) {
+
         //it's very important!
         if (trim($_REQUEST['data']) == '')
             die('data cannot be empty! <a href="?">back</a>');
-            
+
         // user data
         $filename = $PNG_TEMP_DIR.'test'.md5($_REQUEST['data'].'|'.$errorCorrectionLevel.'|'.$matrixPointSize).'.png';
-        QRcode::png($_REQUEST['data'], $filename, $errorCorrectionLevel, $matrixPointSize, 2);    
-        
-    } else {    
-    
+        QRcode::png($_REQUEST['data'], $filename, $errorCorrectionLevel, $matrixPointSize, 2);
+
+    } else {
+
         //default data
-//        echo 'You can provide data in GET parameter: <a href="?data=like_that">like that</a><hr/>';    
-        QRcode::png('PHP QR Code :)', $filename, $errorCorrectionLevel, $matrixPointSize, 2);    
-        
-    }    
+//        echo 'You can provide data in GET parameter: <a href="?data=like_that">like that</a><hr/>';
+        QRcode::png('PHP QR Code :)', $filename, $errorCorrectionLevel, $matrixPointSize, 2);
+
+    }
 echo '
 <div id="print_content" style="padding-top:3%;padding-bottom:3%;">
 <a class="btn btn-primary" href="javascript:Clickheretoprint()"><span class="menu-icon"><i class="fa fa-fw fa-print"></i></span> </a><br><br>';
     echo '
               <img src="'.$PNG_WEB_DIR.basename($filename).'" />
-            </div>';        
-            
+            </div>';
+
     //display generated file
-//    echo '<img src="'.$PNG_WEB_DIR.basename($filename).'" /><hr/>';  
-    
+//    echo '<img src="'.$PNG_WEB_DIR.basename($filename).'" /><hr/>';
+
     //config form
     require_once "../db_connection.php";
    $fetch = mysql_query("SELECT * FROM books ORDER BY ID DESC LIMIT 1");
    $rows = mysql_num_rows($fetch);
    while($take = mysql_fetch_array($fetch))
-                    {         
-   
+                    {
+
 //$name = "Elie";
     echo '<form action="book.php" method="post">
         Data:&nbsp;<input name="data" style ="width:300px" value="'.(isset($_REQUEST['data'])?htmlspecialchars($_REQUEST['data']):$take["qr_book"]).'" /><br><br>
@@ -151,12 +131,12 @@ echo '
         }
     for($i=1;$i<=10;$i++)
         echo '<option value="'.$i.'"'.(($matrixPointSize==$i)?' selected':'').'>'.$i.'</option>';
-        
+
     echo '</select>&nbsp;
         <input type="submit" class="btn btn-primary" value="GENERATE"></form><hr/>';
-        
+
     // benchmark
-//    QRtools::timeBenchmark();    
+//    QRtools::timeBenchmark();
 ?>
           </div>
        <?php }?>
@@ -185,7 +165,7 @@ echo '
           </div>
           </div>
       </div>
-        
+
     <div class="content-wrapper">
         <div class="row">
           <div class="col-md-12">
@@ -229,14 +209,14 @@ echo '
                   </tbody>
                 </table>
                   <form action="download.php" method="POST">
-                   <input type="submit" name="book" class="btn btn-primary" value="Download"> 
+                   <input type="submit" name="book" class="btn btn-primary" value="Download">
                 </form>
               </div>
             </div>
           </div>
         </div>
-      </div>    
-        
+      </div>
+
     </div>
     <!-- Javascripts-->
 
