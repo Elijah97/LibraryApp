@@ -24,7 +24,6 @@ $page_id = 'book';
           </div>
         </div>
         <div class="row">
-            <?php if($status == 1) {?>
           <div class="col-lg-6">
             <div class="well bs-component">
               <form class="form-horizontal" action="" method="POST">
@@ -51,8 +50,7 @@ $page_id = 'book';
               </form>
             </div>
           </div>
-          <?php include ("qrgen.php")?>
-       <?php }?>
+	<?php include "qrgen.php"; ?>
         </div>
         <div class="row">
           <div class="col-lg-6">

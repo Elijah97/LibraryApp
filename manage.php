@@ -2,13 +2,12 @@
     header('Access-Control-Allow-Origin: *');
     // Define database connection parameters
     include("db_connection.php");
-
     if($_REQUEST['key'] == 'borrow'){
         // Sanitise URL supplied values
         $book       = filter_var($_REQUEST['book'], FILTER_SANITIZE_STRING, FILTER_FLAG_ENCODE_LOW);
         $student    = filter_var($_REQUEST['student'], FILTER_SANITIZE_STRING, FILTER_FLAG_ENCODE_LOW);
-        $dateB      = date('Y-m-d h:i:sa');
-        $dateR      = ' ';
+        $dateB      = date('Y-m-d H:i:s');
+        $dateR      = date('Y-m-d H:i:s', "0000-00-00 00:00:00");
         $status     = "Borrowed";
         $checkBook = mysql_query("SELECT * FROM books WHERE qr_book = '$book'") or die(mysql_error());
         if(mysql_num_rows($checkBook) != 0){
@@ -36,7 +35,7 @@
         $fetch  = mysql_query($sql) or die(mysql_error());
         if(mysql_num_rows($fetch) != 0){
             $status = "Returned";
-            $dateR = date('Y-m-d h:i:sa');
+            $dateR = date('Y-m-d H:i:s');
             while($row = mysql_fetch_array($fetch)){
 	            $id = $row['id'];
                 $update  = mysql_query("UPDATE book_mgt SET status = '$status', date_returned = '$dateR' WHERE id = '$id'") or die(mysql_error());
