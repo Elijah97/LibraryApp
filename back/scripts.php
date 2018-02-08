@@ -10,22 +10,22 @@
 
 <script>
   function Clickheretoprint()
-    { 
-      var disp_setting="toolbar=no,location=no,directories=no,menubar=no,"; 
-          disp_setting+="scrollbars=yes,width=2000, height=2000, left=0, top=0"; 
-      var content_vlue = document.getElementById("print_content").innerHTML; 
+    {
+      var disp_setting="toolbar=no,location=no,directories=no,menubar=no,";
+          disp_setting+="scrollbars=yes,width=2000, height=2000, left=0, top=0";
+      var content_vlue = document.getElementById("print_content").innerHTML;
 
-      var docprint=window.open("","",disp_setting); 
-       docprint.document.open(); 
+      var docprint=window.open("","",disp_setting);
+       docprint.document.open();
        docprint.document.write('<html><head><title>Print</title>');
        docprint.document.write('<link rel="stylesheet" type="text/css" href="css/main.css">');
        docprint.document.write('<link rel="stylesheet" type="text/css" href="font-awesome/css/font-awesome.min.css">');
-       docprint.document.write('</head><body onLoad="self.print()" style="padding-left:7%;width:100%; font-size:12px; font-family:calibri;">');          
-       docprint.document.write(content_vlue);          
-       docprint.document.write('<script src="js/main.js">'); 
-       docprint.document.write('</body></html>'); 
-       docprint.document.close(); 
-       docprint.focus(); 
+       docprint.document.write('</head><body onLoad="self.print()" style="padding-left:7%;width:100%; font-size:12px; font-family:calibri;">');
+       docprint.document.write(content_vlue);
+       docprint.document.write('<script src="js/main.js">');
+       docprint.document.write('</body></html>');
+       docprint.document.close();
+       docprint.focus();
     }
 </script>
 <script src="js/jquery-2.1.4.min.js"></script>
